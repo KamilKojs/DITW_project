@@ -26,8 +26,8 @@ def get_htmltext(url):
 def get_actors(infobox_data):
 
     infobox_trs = infobox_data.find_all('tr')
-    re_actorurl = re.compile('<li><a href=(.+?)"')
 
+    # Extract starring actor for those tags tr in infobox containing such info
     for tr in infobox_trs:
         tr_string = str(tr)
         is_starringsection = re.search('Starring', tr_string)
@@ -41,12 +41,14 @@ def get_actors(infobox_data):
 
 
 def get_poster(infobox_data):
-
+    
+    # Get infobox image url for such film
     img_url = 'https:' + infobox_data.find_all('img', limit=1)[0]['src']
     return img_url
 
 
 def get_year(soup):
+    # Get infobox year for such film
     year = soup.find_all(
         'span', attrs={'class': 'bday dtstart published updated'},  limit=1)[0].string.split('-')[0]
     return year
@@ -59,7 +61,7 @@ def scrape_wikipedia(film_title):
 
     soup = BeautifulSoup(html_text, features="html.parser")
 
-    # Find tr tags from infobox common in all film wiki pages
+    # Get infobox tag,  common in all film wiki pages
     infobox_data = soup.find_all(
         'table', attrs={'class': 'infobox vevent'},  limit=1)[0]
 
@@ -106,5 +108,4 @@ def main():
 
 
 if __name__ == '__main__':
-
     main()
