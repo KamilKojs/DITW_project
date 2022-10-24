@@ -1,6 +1,5 @@
 import requests
 import os
-import json
 import time
 import pandas as pd
 
@@ -70,46 +69,88 @@ def main():
     bearer_token = auth()
     headers = create_headers(bearer_token)
     keyword = "#TheLittleMermaid lang:en"
-    start_time = "2022-01-01T00:00:00.000Z"
-    end_time = "2022-10-20T00:00:00.000Z"
-    max_results = 10
+    max_results = 500
 
-    count = 0
-    max_count = 30
-    flag = True
-    next_token = None
+    months = [
+        #("2019-06-01T00:00:00.000Z", "2019-07-01T00:00:00.000Z"),
+        #("2019-07-01T00:00:00.000Z", "2019-08-01T00:00:00.000Z"),
+        ("2019-08-01T00:00:00.000Z", "2019-09-01T00:00:00.000Z"),
+        ("2019-09-01T00:00:00.000Z", "2019-10-01T00:00:00.000Z"),
+        ("2019-10-01T00:00:00.000Z", "2019-11-01T00:00:00.000Z"),
+        ("2019-11-01T00:00:00.000Z", "2019-12-01T00:00:00.000Z"),
+        ("2019-12-01T00:00:00.000Z", "2020-01-01T00:00:00.000Z"),
+        ("2020-01-01T00:00:00.000Z", "2020-02-01T00:00:00.000Z"),
+        ("2020-02-01T00:00:00.000Z", "2020-03-01T00:00:00.000Z"),
+        ("2020-03-01T00:00:00.000Z", "2020-04-01T00:00:00.000Z"),
+        ("2020-04-01T00:00:00.000Z", "2020-05-01T00:00:00.000Z"),
+        ("2020-05-01T00:00:00.000Z", "2020-06-01T00:00:00.000Z"),
+        ("2020-06-01T00:00:00.000Z", "2020-07-01T00:00:00.000Z"),
+        ("2020-07-01T00:00:00.000Z", "2020-08-01T00:00:00.000Z"),
+        ("2020-08-01T00:00:00.000Z", "2020-09-01T00:00:00.000Z"),
+        ("2020-09-01T00:00:00.000Z", "2020-10-01T00:00:00.000Z"),
+        ("2020-10-01T00:00:00.000Z", "2020-11-01T00:00:00.000Z"),
+        ("2020-11-01T00:00:00.000Z", "2020-12-01T00:00:00.000Z"),
+        ("2020-12-01T00:00:00.000Z", "2021-01-01T00:00:00.000Z"),
+        ("2021-01-01T00:00:00.000Z", "2021-02-01T00:00:00.000Z"),
+        ("2021-02-01T00:00:00.000Z", "2021-03-01T00:00:00.000Z"),
+        ("2021-03-01T00:00:00.000Z", "2021-04-01T00:00:00.000Z"),
+        ("2021-04-01T00:00:00.000Z", "2021-05-01T00:00:00.000Z"),
+        ("2021-05-01T00:00:00.000Z", "2021-06-01T00:00:00.000Z"),
+        ("2021-06-01T00:00:00.000Z", "2021-07-01T00:00:00.000Z"),
+        ("2021-07-01T00:00:00.000Z", "2021-08-01T00:00:00.000Z"),
+        ("2021-08-01T00:00:00.000Z", "2021-09-01T00:00:00.000Z"),
+        ("2021-09-01T00:00:00.000Z", "2021-10-01T00:00:00.000Z"),
+        ("2021-10-01T00:00:00.000Z", "2021-11-01T00:00:00.000Z"),
+        ("2021-11-01T00:00:00.000Z", "2021-12-01T00:00:00.000Z"),
+        ("2021-12-01T00:00:00.000Z", "2022-01-01T00:00:00.000Z"),
+        ("2022-01-01T00:00:00.000Z", "2022-02-01T00:00:00.000Z"),
+        ("2022-02-01T00:00:00.000Z", "2022-03-01T00:00:00.000Z"),
+        ("2022-03-01T00:00:00.000Z", "2022-04-01T00:00:00.000Z"),
+        ("2022-04-01T00:00:00.000Z", "2022-05-01T00:00:00.000Z"),
+        ("2022-05-01T00:00:00.000Z", "2022-06-01T00:00:00.000Z"),
+        ("2022-06-01T00:00:00.000Z", "2022-07-01T00:00:00.000Z"),
+        ("2022-07-01T00:00:00.000Z", "2022-08-01T00:00:00.000Z"),
+        ("2022-08-01T00:00:00.000Z", "2022-09-01T00:00:00.000Z"),
+        ("2022-09-01T00:00:00.000Z", "2022-10-01T00:00:00.000Z")
+    ]
 
-    all_data = pd.DataFrame(columns=['id','author_id','like_count','quote_count','reply_count','retweet_count','referenced_tweet_id', 'referenced_tweet_type', 'text'])
+    for start_time, end_time in months:
+        month = start_time.split("T")[0]
+        count = 0
+        max_count = 125000
+        flag = True
+        next_token = None
 
-    while flag:
-        if count >= max_count:
-            break
-        print(f"Tweets fetched: {count}")
-        url = create_url(keyword, start_time, end_time, max_results)
-        json_response = connect_to_endpoint(url[0], headers, url[1], next_token)
-        result_count = json_response['meta']['result_count']
+        all_data = pd.DataFrame(columns=['id','author_id','like_count','quote_count','reply_count','retweet_count','referenced_tweet_id', 'referenced_tweet_type', 'text'])
 
-        if 'next_token' in json_response['meta']:
-            next_token = json_response['meta']['next_token']
-            if result_count is not None and result_count > 0 and next_token is not None:
-                all_data = append_to_df(all_data, json_response)
-                count += result_count
-                time.sleep(5)                
-        # If no next token exists
-        else:
-            if result_count is not None and result_count > 0:
-                all_data = append_to_df(all_data, json_response)
-                count += result_count
-                time.sleep(5)
-            
-            #Since this is the final request, turn flag to false
-            flag = False
-            next_token = None
+        while flag:
+            if count >= max_count:
+                break
+            print(f"Tweets fetched ({month}): {count}")
+            url = create_url(keyword, start_time, end_time, max_results)
+            json_response = connect_to_endpoint(url[0], headers, url[1], next_token)
+            result_count = json_response['meta']['result_count']
 
-    #result = all_data.to_json(orient="split")
-    #parsed = json.loads(result)
-    #print(json.dumps(parsed, indent=3, sort_keys=True))
-    print(all_data)
+            if 'next_token' in json_response['meta']:
+                next_token = json_response['meta']['next_token']
+                if result_count is not None and result_count > 0 and next_token is not None:
+                    all_data = append_to_df(all_data, json_response)
+                    count += result_count
+                    time.sleep(1.1)                
+            # If no next token exists
+            else:
+                if result_count is not None and result_count > 0:
+                    all_data = append_to_df(all_data, json_response)
+                    count += result_count
+                    time.sleep(1.1)
+                
+                #Since this is the final request, turn flag to false
+                flag = False
+                next_token = None
+
+        start_time_str = start_time.split("T")[0]
+        end_time_str = end_time.split("T")[0]
+        all_data.to_csv(f"data/twitter/little_mermaid/start:{start_time_str},end:{end_time_str}_hashtag:{keyword}.csv")
 
 
 if __name__ == "__main__":
