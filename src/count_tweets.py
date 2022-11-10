@@ -5,7 +5,7 @@ import pandas as pd
 
 
 def main():
-    dir_path = "/Users/kamil/Documents/Dokumenty/ITU/Sem1/Data_in_the_wild/project/DITW_project/data/twitter/little_mermaid"
+    dir_path = "/Users/kamil/Documents/Dokumenty/ITU/Sem1/Data_in_the_wild/project/DITW_project/data/twitter/wolf_of_wall_street"
     all_files = [f for f in listdir(dir_path) if isfile(join(dir_path, f))]
     all_files = sorted(all_files)
     total = 0
