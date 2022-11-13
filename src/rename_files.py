@@ -11,11 +11,16 @@ def main():
 
     for file in all_files:
         file_name = os.path.basename(file)
+        #print(file_name)
+        
         if file.startswith('start'):
             df = pd.read_csv(f"{dir_path}/{file}")
-            new_file_name = file.replace(",", "-")
-            new_file_name = file.replace(" ", "-")
+            new_file_name = file.replace(":", "_")
+            new_file_name = new_file_name.replace("-", "_")
+            new_file_name = new_file_name.replace(",", "_")
+            new_file_name = new_file_name.replace("#", "_")
             df.to_csv(f"{dir_path}/{new_file_name}")
+        
 
 
 if __name__ == "__main__":
