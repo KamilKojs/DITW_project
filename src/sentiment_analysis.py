@@ -1,6 +1,7 @@
 import os
 import pathlib
 import pandas as pd
+import datetime as dt
 
 
 from transformers import AutoModelForSequenceClassification
@@ -73,7 +74,10 @@ class CSV_reader:
 
     # TODO:
     def __init__(self, csv_file=None):
-        self.csv_file = os.path.normpath(csv_file)
+        if csv_file is not None:
+            self.csv_file = os.path.normpath(csv_file)
+        else:
+            self.csv_file = None
         self.cwd = pathlib.Path().resolve()
         self.movies_path = os.path.abspath(os.path.join(os.path.dirname( __file__ ), '..', 'data/twitter'))
         self.roberta = Roberta_Sentiment()
@@ -91,7 +95,7 @@ class CSV_reader:
         csv_files = []
 
         for file in os.listdir(directory):
-            if file.endswith(".csv"):
+            if file.endswith(".csv") and file.startswith("start_"):
                 csv_files.append(os.path.join(directory, file))
 
         return csv_files
@@ -105,39 +109,68 @@ class CSV_reader:
 
         return all_tweets
     
-    def run_analysis(self, file, out_file_path):
+    def run_analysis_on_file(self, file, out_file_path, size=None):
+
         df = pd.read_csv(file)
         length = len(df.index)
         df = df.assign(negative=pd.Series(np.zeros(length)).values)
         df = df.assign(neutral=pd.Series(np.zeros(length)).values)
         df = df.assign(positive=pd.Series(np.zeros(length)).values)
 
+        if size is not None:
+            size = max(size, length)
+            df = df.sample(size)
+        
+    
         for index, row in df.iterrows():
             text = row['text']
             scores = self.roberta.get_sentiment(text)
             df.at[index, 'negative'] = scores[0]
             df.at[index, 'neutral'] = scores[1]
             df.at[index, 'positive'] = scores[2]
-            
+
         df.to_csv(out_file_path, sep='\t', encoding='utf-8', index=False)
 
-    def run_sentiment_analysis(self):
+    def run_analysis_on_df(self, df, out_file_path, size=None):
+        length = len(df.index)
+        df = df.assign(negative=pd.Series(np.zeros(length)).values)
+        df = df.assign(neutral=pd.Series(np.zeros(length)).values)
+        df = df.assign(positive=pd.Series(np.zeros(length)).values)
+
+        if size is not None:
+            size = max(size, length)
+            df = df.sample(size)
+        
+    
+        for index, row in df.iterrows():
+            text = row['text']
+            scores = self.roberta.get_sentiment(text)
+            df.at[index, 'negative'] = scores[0]
+            df.at[index, 'neutral'] = scores[1]
+            df.at[index, 'positive'] = scores[2]
+
+        df.to_csv(out_file_path, sep='\t', encoding='utf-8', index=False)
+
+    def run_sentiment_analysis(self, sample_size=None):
 
         if self.csv_file is None:
             movie_dirs = self.get_movie_dirs()
             for movie_dir in movie_dirs:
                 csv_files = self.get_csv_files(movie_dir)
 
+
                 if len(csv_files) >= 0:
 
-                    for file in csv_files:
-                        
-                        file_name = pathlib.Path(file).stem
-                        out_file_name = f"{file_name}_sentiment.csv"
+                    df = self.read_tweets_from_files(csv_files)
 
-                        out_file_path = os.path.join(movie_dir, out_file_name)
+                    movie_name = os.path.basename(os.path.normpath(movie_dir))
+                    out_file_name = f"{movie_name}_sentiment.csv"
+                    out_file_path = os.path.join(movie_dir, out_file_name)
 
-                        self.run_analysis(file, out_file_path)
+                    print(f"starting sentiment analysis on {movie_name} at {dt.datetime.now()}")
+                    self.run_analysis_on_df(df, out_file_path)
+                    print(f"finished sentiment analysis on {movie_name} at {dt.datetime.now()}")
+                    print(f"saved sentiment analysis on {movie_name} to {out_file_path}")
                         
 
                 else:
@@ -151,10 +184,12 @@ class CSV_reader:
 
             out_file_path = os.path.join(movie_dir, out_file_name)
 
-            self.run_analysis(file, out_file_path)
+            print(f"starting sentiment analysis on {file_name} at {dt.datetime.now()}")
+            self.run_analysis_on_file(file, out_file_path)
+            print(f"finished sentiment analysis on {file_name} at {dt.datetime.now()}")
 
 
 if __name__ == "__main__":
 
-    csv_reader = CSV_reader(csv_file="C:\\Users\\Juliu\\OneDrive\\ITU\\1st Semester\\DataInTheWild\\Project\\DITW_project\\data\\twitter\\inception\\subset_inception.csv")
-    csv_reader.run_sentiment_analysis()
+    csv_reader = CSV_reader()
+    csv_reader.run_sentiment_analysis(sample_size=10.000)
