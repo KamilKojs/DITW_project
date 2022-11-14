@@ -1,0 +1,579 @@
+Unnamed: 0.1	Unnamed: 0	id	author_id	like_count	quote_count	reply_count	retweet_count	referenced_tweet_id	referenced_tweet_type	text	negative	neutral	positive
+0	0	3.514232209493238e+17	249759720.0	1.0	0.0	1.0	0.0			There's been a lot of uncertainty wit what I want to do with my life an I have finally decided what I what to strive to be #WolfOfWallStreet	0.1329	0.6833	0.1838
+1	1	3.514065127380255e+17	273747908.0	0.0	0.0	0.0	1.0			"""The year I turned 26, I made 49 million dollars. Which really pissed me off, because it was 3 shy of a million a week."" #WolfOfWallStreet"	0.8921	0.0964	0.0116
+2	2	3.513811863980114e+17	460667050.0	0.0	0.0	0.0	0.0			"https://t.co/InwFXIpwxl
+
+I gotta see this movie. #wolfofwallstreet #leo"	0.0163	0.2089	0.7748
+3	3	3.513420857161851e+17	146199606.0	0.0	0.0	0.0	0.0			"Kanye West - Black Skinhead [NEW 2013]
+
+This is a belter #wolfofwallstreet http://t.co/nV56zOWetn"	0.0079	0.39	0.6022
+4	4	3.511745518304051e+17	247986170.0	1.0	0.0	0.0	0.0			"""Money is not going to make you happy, but an absence of money will buy you an awful lot of misery"" - Jordan Belfort #WolfofWallStreet"	0.644	0.2955	0.0605
+5	5	3.5116641135742566e+17	26035132.0	0.0	0.0	0.0	0.0			#wolfofwallstreet trailer playing in the theaters now... #ohboy #bestbook #waitingyears	0.0023	0.0275	0.9701
+6	6	3.51062559480234e+17	54798367.0	0.0	0.0	0.0	0.0			"""The year I turned 26 I made $49 million which really pissed me off because it was 3 shy of a million a week."" #WolfofWallStreet looks great"	0.4986	0.2756	0.2258
+7	7	3.509848315570463e+17	95432311.0	0.0	0.0	0.0	0.0			This looks excellent. Scorsese and Leo = Can't lose. #WolfofWallStreet http://t.co/8KpMP5pqt0 http://t.co/Pg9u0KNAkE	0.0034	0.014	0.9826
+8	8	3.509212147950674e+17	154225151.0	0.0	0.0	0.0	0.0			You can never have too many Leonardo DiCaprio GIFs on your Tumblr #leonardodicaprio #wolfofwallstreet  … http://t.co/OHbxLMI0lL	0.011	0.3043	0.6847
+9	9	3.508243385151693e+17	33723482.0	0.0	0.0	0.0	0.0			If they gave out Oscars for movie trailers #WolfofWallStreet would win by a landslide	0.0589	0.4733	0.4678
+10	10	3.508216480998441e+17	43924773.0	1.0	0.0	0.0	0.0	3.5081213558194586e+17	replied_to	@Nnamdi_22 dude, I'm so pumped #ScorseseAndLeo #plusJonah #WolfOfWallstreet	0.0015	0.0158	0.9827
+11	11	3.507110117597512e+17	64855583.0	0.0	0.0	0.0	0.0			"http://t.co/G15OiX5vHM
+Movie experience made... who the Hell needs the feature film when you get the #WolfOfWallStreet preview. @LeoDiCaprio"	0.3506	0.4677	0.1817
+12	12	3.506922842595041e+17	36025136.0	0.0	0.0	0.0	0.0			a million reasons to see #wolfofwallstreet, contained in one animated gif: http://t.co/x1hiJ9uRgf	0.0039	0.1704	0.8257
+13	13	3.505156189083443e+17	1549975951.0	0.0	0.0	0.0	27.0	3.504036076796027e+17	retweeted	RT @younghollywood: Trailer for #WolfofWallStreet shows a side of @LeoDiCaprio we don't get to see too often! --&gt; http://t.co/6wH8zSRZrP Th…	0.0046	0.3114	0.6841
+14	14	3.505106467580928e+17	1552410114.0	0.0	0.0	0.0	27.0	3.504036076796027e+17	retweeted	RT @younghollywood: Trailer for #WolfofWallStreet shows a side of @LeoDiCaprio we don't get to see too often! --&gt; http://t.co/6wH8zSRZrP Th…	0.0046	0.3114	0.6841
+15	15	3.504642522906624e+17	256433721.0	0.0	0.0	0.0	0.0			So it looks like Jonah Hill is playing a sleazier version of his character in Moneyball for the upcoming #WolfOfWallStreet.	0.1212	0.7946	0.0842
+16	16	3.504140447814943e+17	1532194886.0	0.0	0.0	0.0	27.0	3.504036076796027e+17	retweeted	RT @younghollywood: Trailer for #WolfofWallStreet shows a side of @LeoDiCaprio we don't get to see too often! --&gt; http://t.co/6wH8zSRZrP Th…	0.0046	0.3114	0.6841
+17	17	3.504114706574213e+17	1551852085.0	0.0	0.0	0.0	27.0	3.504036076796027e+17	retweeted	RT @younghollywood: Trailer for #WolfofWallStreet shows a side of @LeoDiCaprio we don't get to see too often! --&gt; http://t.co/6wH8zSRZrP Th…	0.0046	0.3114	0.6841
+18	18	3.5041034766608384e+17	1532181151.0	0.0	0.0	0.0	27.0	3.504036076796027e+17	retweeted	RT @younghollywood: Trailer for #WolfofWallStreet shows a side of @LeoDiCaprio we don't get to see too often! --&gt; http://t.co/6wH8zSRZrP Th…	0.0046	0.3114	0.6841
+19	19	3.504046096065659e+17	278285291.0	0.0	0.0	0.0	27.0	3.504036076796027e+17	retweeted	RT @younghollywood: Trailer for #WolfofWallStreet shows a side of @LeoDiCaprio we don't get to see too often! --&gt; http://t.co/6wH8zSRZrP Th…	0.0046	0.3114	0.6841
+20	20	3.504036076796027e+17	19196415.0	3.0	0.0	0.0	27.0			Trailer for #WolfofWallStreet shows a side of @LeoDiCaprio we don't get to see too often! --&gt; http://t.co/6wH8zSRZrP Thoughts??	0.0154	0.6159	0.3687
+21	21	3.5039831464412365e+17	101918846.0	2.0	0.0	0.0	0.0			somebody stop me from watching this again and again http://t.co/BJRMZBBzkl #wolfofwallstreet	0.6548	0.3044	0.0408
+22	22	3.503927553667973e+17	356472384.0	0.0	0.0	0.0	0.0			No matter what happened to you in your past, you are not your past #WolfOfWallStreet	0.6488	0.3358	0.0154
+23	23	3.503778666361815e+17	122128912.0	1.0	0.0	0.0	0.0			Still can't get over meeting Jordan Belfort yesterday #WolfofWallStreet	0.1689	0.5684	0.2627
+24	24	3.503720120127406e+17	397013355.0	1.0	0.0	0.0	0.0			"""Money is the greatest single problem-solver known to man, anyone who says different is full of shit"" -Jordan Belfort #wolfofwallstreet"	0.0849	0.4014	0.5137
+25	25	3.502971276305449e+17	899081275.0	0.0	0.0	0.0	0.0			The year I turned 26 i made 49 million dollars, which really pissed me off cause it was 3 shy of a million a week #WolfOfWallStreet	0.8926	0.0956	0.0117
+26	26	3.502933794620744e+17	260751306.0	0.0	0.0	0.0	0.0			I have a feeling this movie is going to be epic #wolfofwallstreet - “Successful people are 100%… http://t.co/sEM4uoczfT	0.0025	0.0118	0.9858
+27	27	3.502930532081377e+17	224529581.0	0.0	0.0	0.0	0.0	3.502925325817774e+17	replied_to	“@urmindblown: Leonardo DiCaprio, Johnny Depp, &amp; Harrison Ford have all never won an Oscar.” That'll change after #wolfofwallstreet	0.5426	0.4082	0.0492
+28	0	3.627130639688745e+17	46130377.0	0.0	0.0	0.0	0.0	3.627122233296814e+17	replied_to	@notimesquare lol posh max only yuvaar. #WolfofWallStreet	0.1256	0.6498	0.2246
+29	1	3.62665286849151e+17	301613699.0	2.0	0.0	0.0	0.0			“Whether you say, ‘I can’ or ‘I can’t,’ you’re right either way.” – Jordan Belfort #RealTalk #WolfofWallStreet	0.0383	0.6611	0.3006
+30	2	3.626481018461348e+17	30402648.0	0.0	0.0	0.0	0.0			I decided to watch the trailer for #WolfOfWallStreet even though I'm nowhere near done with the book. Even more excited now!! #LoveLeo	0.0027	0.0269	0.9704
+31	3	3.626447702769132e+17	168739909.0	0.0	0.0	0.0	0.0			Dear People that run Hollywood, I'd like to watch #WolfofWallStreet now. If you could see to that, it'd be just swell.	0.1008	0.3463	0.5529
+32	4	3.626171746338775e+17	469456253.0	0.0	0.0	0.0	0.0	3.625797295948513e+17	replied_to	@simone_mostaan your buzzin cos it will be closer to November #WolfofWallStreet	0.0114	0.3745	0.6141
+33	5	3.624342083559752e+17	479267506.0	2.0	0.0	0.0	0.0			"The fact that #WolfOfWallStreet uses ""Black Skinhead"" as the trailer song &gt;&gt;&gt;&gt;&gt; I was to happy when I heard it!!!"	0.0033	0.0121	0.9846
+34	6	3.622675273022218e+17	1095204613.0	0.0	0.0	0.0	0.0			1:34: I want to pay so much money to see DiCaprio do this dance. http://t.co/WBLcQic98v #wolfofwallstreet	0.0203	0.1512	0.8285
+35	7	3.62252109153964e+17	201383132.0	0.0	0.0	0.0	1.0			"""And, in 2013, the movie industry remembered how to make really, truly awesome trailers again,"" - historian. #WalterMitty #WolfOfWallStreet"	0.0037	0.0971	0.8992
+36	8	3.6223304984233165e+17	1606924009.0	0.0	0.0	0.0	0.0			Rumor has it Leo's getting nekky in #WolfofWallstreet. Sldofkgmvkcodkwdmfnvickdme	0.0776	0.8192	0.1032
+37	9	3.621765312478044e+17	34570658.0	0.0	0.0	1.0	0.0	3.621759328716063e+17	replied_to	@MarcDavids it will be rated 16VLSN did i leave anything out? Lets set up a movie night when its on #WolfofWallStreet	0.0224	0.8692	0.1084
+38	10	3.621634500273152e+17	405453040.0	0.0	0.0	1.0	0.0	3.621611218111037e+17	replied_to	@Georgia_Denise it's going to be so expensive, but I DON'T CARE #WolfOfWallStreet	0.8237	0.1552	0.0211
+39	11	3.621275277974733e+17	405453040.0	0.0	0.0	0.0	1.0	3.604235989571461e+17	retweeted	RT @jluith: On my 26th birthday I made $49M, which really pissed me off because it was 3 shy of a million/week #WolfOfWallStreet	0.9188	0.0733	0.0079
+40	12	3.621272634137149e+17	405453040.0	0.0	0.0	1.0	0.0	3.619584278466478e+17	replied_to	@Georgia_Denise omg omg omg no you don't understand how excited I am! Asdfghjkl  it's not out for ages:( #WolfOfWallStreet	0.0178	0.0287	0.9535
+41	13	3.620439167757189e+17	24234396.0	0.0	0.0	0.0	0.0			#summer is when I catch up on my #reading learning to be the #WolfOfWallStreet 📖😊 http://t.co/NWt9KKCo2q	0.0023	0.1428	0.8549
+42	14	3.619828800140124e+17	792694592.0	0.0	0.0	0.0	331.0	3.4666309631360205e+17	retweeted	RT @scooterbraun: just watched the trailer for my friends @LeoDiCaprio and @JonahHill for #WolfOfWallStreet - movie looks incredible! http:…	0.0016	0.0154	0.983
+43	15	3.619264102663455e+17	108427465.0	0.0	0.0	0.0	0.0			I cannot wait for this movie to come out. I worked in this business in the 80s #WolfOfWallStreet http://t.co/Qr4yrcc9Ri	0.0023	0.0155	0.9822
+44	16	3.6183855835867546e+17	305900389.0	0.0	0.0	0.0	0.0			Then Yeezus apart of the soundtrack #WolfOfWallStreet	0.0105	0.7649	0.2246
+45	17	3.618384015042847e+17	305900389.0	0.0	0.0	0.0	0.0			I really can't wait to see #WolfOfWallStreet ..Leo be playing some bomb roles	0.0023	0.0108	0.9869
+46	18	3.616478426595369e+17	478285230.0	1.0	0.0	0.0	0.0	3.611656621414277e+17	replied_to	“@katestallc: @ConnorFloyd1 Please promise that you won't go see #WolfOfWallStreet without me.” Promise ✋	0.0285	0.4807	0.4908
+47	19	3.615898321930322e+17	188553354.0	0.0	0.0	1.0	0.0			Def gotta read the book, but it's going to be a sick movie @bobnylan69 #WolfofWallStreet #BlkkkSkkknHead http://t.co/iOGxs9EtEl	0.0064	0.0474	0.9462
+48	20	3.615705123060531e+17	901615285.0	0.0	0.0	0.0	0.0			"""22 months in jail and I still came home to my Manhattan condo, My tailored custom suits and my rolex's"" Jordan Belfort. #WolfOfWallStreet"	0.0443	0.7124	0.2434
+49	21	3.615411809677517e+17	901615285.0	0.0	0.0	0.0	0.0			Jordan Belfort is an Icon. #WolfOfWallStreet	0.0086	0.0984	0.8929
+50	22	3.612762356214702e+17	158973344.0	1.0	0.0	0.0	0.0			Just asked my dad about #wolfofwallstreet and midget tossing and he said there was also midget bowling #iseeyoudad	0.0739	0.7786	0.1475
+51	23	3.612038352193536e+17	67165351.0	0.0	0.0	0.0	0.0			Leonardo DiCaprio's new movie omg OMG #wolfofwallstreet	0.0026	0.0277	0.9697
+52	24	3.611272809840722e+17	598067577.0	0.0	0.0	0.0	0.0			I bet Counting Stars by OneRepublic is in #WolfOfWallStreet	0.047	0.697	0.256
+53	25	3.609824360431616e+17	223178322.0	0.0	0.0	0.0	0.0			What's wrong, daddy? #wolfofwallstreet	0.6004	0.3769	0.0226
+54	26	3.609126721805353e+17	524892550.0	1.0	0.0	0.0	1.0			Can leonardo dicaprio please only play roles where hes a rich bachelor? That would make me happy #WolfOfWallStreet	0.0141	0.1262	0.8597
+55	27	3.6085285622134784e+17	384806521.0	0.0	0.0	0.0	0.0			I have no idea what's going to happen but excited to see it.  #WolfOfWallStreet #TrailersDoneRight	0.0031	0.0227	0.9743
+56	0	3.738684072396349e+17	219583804.0	0.0	0.0	0.0	0.0			somewhere along the way Matthew Mconaughey has become a real actor. #pinnochiostory #dallasbuyersclub #lincolnlawyer #wolfofwallstreet	0.0109	0.521	0.4681
+57	1	3.738145049386721e+17	81651596.0	0.0	0.0	0.0	0.0			#Trading is sexy http://t.co/qEzSEZpkTB #WolfofWallStreet #tradimo	0.011	0.1891	0.7999
+58	2	3.7375671692127846e+17	42173703.0	0.0	0.0	0.0	0.0			I wanna see Leo's new movie coming out #WolfOfWallstreet	0.0103	0.4237	0.566
+59	3	3.73547438025343e+17	27126360.0	0.0	0.0	0.0	0.0			Kyle Chandler on #TheSpectacularNow, #WolfOfWallStreet, and those #FridayNightLights rumors http://t.co/zkqfjB6zMo via @EW	0.0181	0.9552	0.0267
+60	4	3.735334311265853e+17	1068356468.0	0.0	0.0	0.0	0.0			#LeonardoDiCaprio, New Images From 'The #WolfOfWallStreet' http://t.co/jH9jpDmU9K	0.0043	0.9105	0.0853
+61	5	3.735273901082624e+17	40314634.0	0.0	0.0	0.0	0.0			Playing 9 holes with a real #WolfOfWallStreet... ⛳🐾 #NoyacGolfClub #Noyac #Hamptons @ Noyac Golf Club http://t.co/iwauEGFnT9	0.0044	0.7791	0.2165
+62	6	3.735100826647388e+17	19348713.0	0.0	0.0	0.0	0.0			#KyleChandlerwinsatlife: He talks #TheSpectacularNow, #WolfofWallStreet, and those #FNL rumors http://t.co/0yDR3Qybpt via @EW	0.0056	0.937	0.0575
+63	7	3.734921617966408e+17	425935080.0	1.0	0.0	1.0	0.0			So excited for this movie but it feels like we've been waiting FOREVER #WolfofWallstreet http://t.co/r08iDaaSI7	0.0025	0.0093	0.9883
+64	8	3.7325227539513344e+17	1325713214.0	0.0	0.0	0.0	0.0			Wold of Wall Street - Behind the Scenes Photos http://t.co/DE5dCSDwYA #TheFordhamCompany #WolfofWallStreet #Jordan Belfort	0.0064	0.929	0.0646
+65	9	3.7324534203825766e+17	767855965.0	0.0	0.0	0.0	0.0			I eagerly waiting for #wolfofwallstreet. Can't wait to see the class of acting by Leonardo DiCaprio.	0.0015	0.011	0.9875
+66	10	3.731740018852782e+17	275718091.0	0.0	0.0	0.0	0.0			Rooftop Thursdays @emelyneross #wolfofwallstreet @ 25 Broad at The Exchange http://t.co/JfTvWyyqnL	0.0029	0.9263	0.0708
+67	11	3.7299170004801946e+17	14081955.0	1.0	0.0	0.0	0.0			My picks for must-see films of Fall 2013: #AmericanHustle #CaptainPhillips #Gravity #TheMonumentsMen #Rush #TheCounselor #WolfOfWallStreet	0.0052	0.274	0.7208
+68	12	3.729433217251533e+17	440346732.0	0.0	0.0	0.0	0.0			I open up my mailbox and what do i see? #dicaprio #leo #leodicaprio #wolfofwallstreet #newyorkmagazine… http://t.co/JiUiUWxlJn	0.0095	0.8845	0.106
+69	13	3.7291632068724326e+17	901615285.0	0.0	0.0	0.0	0.0			"""I started and funded Steve Madden, You can ask Steve your damn self, I made that prick"" Jordan Belfort #WolfOfWallStreet #WallStreetGod 🙌"	0.2632	0.5122	0.2245
+70	14	3.7285702967076045e+17	118197187.0	0.0	0.0	0.0	0.0			"""I guess the road to hell is paved with good intentions."" #wolfofwallstreet"	0.4221	0.4384	0.1395
+71	15	3.7275810019517645e+17	300840384.0	0.0	0.0	0.0	0.0			"“Listen, guys, fucking around with midgets ain’t no joke. Pound for pound they’re stronger than grizzly bears"" #WolfofWallstreet"	0.4919	0.3319	0.1761
+72	16	3.727259484093276e+17	1018057830.0	0.0	0.0	0.0	3.0	3.725634788729856e+17	retweeted	RT @PJ_Byrne: “@AutoAdvisorGrp: @PJ_Byrne @NewYorkMag @LeoDiCaprio @JonahHill @MargotRobbie @RedGranitePics can't wait #WolfofWallstreet” XO	0.0016	0.0203	0.9781
+73	17	3.726204969210512e+17	32434511.0	0.0	0.0	0.0	0.0			Leonardo DiCaprio looking sharp in new #WolfOfWallStreet images http://t.co/tw0NZKMUHh	0.0026	0.1377	0.8598
+74	18	3.725634788729856e+17	232670242.0	1.0	0.0	0.0	3.0	3.725554193924301e+17	replied_to	“@AutoAdvisorGrp: @PJ_Byrne @NewYorkMag @LeoDiCaprio @JonahHill @MargotRobbie @RedGranitePics can't wait #WolfofWallstreet” XO	0.0015	0.0125	0.986
+75	19	3.725554193924301e+17	1342426406.0	0.0	0.0	1.0	0.0	3.7210149899535565e+17	replied_to	@PJ_Byrne @NewYorkMag @LeoDiCaprio @JonahHill @MargotRobbie @RedGranitePics can't wait #WolfofWallstreet	0.0017	0.0162	0.982
+76	20	3.72426712388481e+17	69360779.0	0.0	0.0	0.0	0.0			Somehow I still manage to make money on such a terrible trading day.. #WolfofWallstreet  #TFM #GoHam	0.7954	0.1623	0.0422
+77	21	3.724128335959163e+17	118511816.0	0.0	0.0	0.0	0.0			So excited of the upcoming movie season! #HungerGames #WolfofWallstreet #DonJon MUST SEEN!	0.0018	0.0099	0.9883
+78	22	3.724123608433418e+17	118511816.0	0.0	0.0	0.0	0.0			A wise man once told me not fall into the temptation to watch new trailers, I've inevitably lost #WolfofWallstreet	0.6143	0.3386	0.0471
+79	23	3.723858492517581e+17	64614463.0	0.0	0.0	0.0	2.0	3.7237384722527846e+17	retweeted	RT @turneyduff: Looking forward to seeing #wolfofwallstreet @LeoDiCaprio @JonahHill and I hope @wolfofwallst sells a lot more #books.	0.0015	0.0206	0.9779
+80	24	3.7237384722527846e+17	500419872.0	1.0	0.0	0.0	2.0			Looking forward to seeing #wolfofwallstreet @LeoDiCaprio @JonahHill and I hope @wolfofwallst sells a lot more #books.	0.0016	0.0217	0.9767
+81	25	3.719382362658079e+17	248357321.0	0.0	0.0	0.0	0.0	3.7171418751463424e+17	replied_to	@douggates10 Leonardo DiCaprio doesn't do bad films! Check out the trailer for The Wolf of Wall Street old sport! #WolfofWallstreet	0.0344	0.2522	0.7134
+82	26	3.715401103761981e+17	32272478.0	0.0	0.0	0.0	1.0	3.714725988925727e+17	retweeted	RT @ETKevinsMind: Talk about a great career shift @McConaughey in #MagicMike #Bernie #Mud #thepaperboy #WolfofWallstreet  #dallasbuyersclub…	0.0037	0.1079	0.8884
+83	27	3.715008137864274e+17	374018765.0	0.0	0.0	0.0	0.0			from just watching the trailer for #WolfofWallStreet Leo is gonna be a front runner for best actor	0.0043	0.1085	0.8872
+84	0	3.847920693590139e+17	1660839913.0	0.0	0.0	0.0	0.0			Almost time for @MartinScorsese #WolfOfWallStreet to screen in cinemas . So amped:D #AwesomeCastAndCrew. Check the imdb &amp; trailer now!!!! :)	0.0014	0.0094	0.9892
+85	1	3.847314733553582e+17	906193520.0	0.0	0.0	0.0	0.0			black skinhead #tune #wolfofwallstreet	0.058	0.8759	0.0662
+86	2	3.845395449277399e+17	515935414.0	1.0	0.0	0.0	0.0			Excited for the movie, the book has been nothing but entertaining to read thus far #wolfofwallstreet	0.0018	0.009	0.9892
+87	3	3.8445890003810304e+17	21366982.0	0.0	0.0	0.0	0.0			When is #WolfOfWallstreet coming out? been dying to see it since the trailer came out	0.0044	0.0516	0.9441
+88	4	3.844093613232824e+17	1572496760.0	1.0	0.0	1.0	0.0	3.843737712613171e+17	replied_to	@palme_palme @jonnybernthal Woop! Can't wait too! #MobCity's set on Dec 4, #WolfOfWallStreet on Nov, #GrudgeMatch Dec 25 there's #Fury 2014.	0.0013	0.0503	0.9484
+89	5	3.842974226811617e+17	168426335.0	0.0	0.0	0.0	0.0			Okay RT @PictureBoxFilms: It's ok, Bumping is the new black! And a little anticipation never hurt anyone. #Waitforthebest #WolfOfWallStreet	0.0114	0.1156	0.873
+90	6	3.842786023693435e+17	156214508.0	0.0	0.0	0.0	0.0	3.8426156277027226e+17	replied_to	It's ok, Bumping is the new black! And a little anticipation never hurt anyone. #Waitforthebest #WolfOfWallStreet @fajargrimmjaw @moviefone	0.0122	0.0925	0.8953
+91	7	3.842601590168248e+17	256154347.0	0.0	0.0	1.0	0.0	3.842593630423777e+17	replied_to	"@nicol4y He will, eventually. Of this I have no doubt. Maybe next year.
+#WolfOfWallStreet"	0.0126	0.183	0.8044
+92	8	3.840580326129992e+17	252336068.0	1.0	0.0	0.0	0.0			NYC is definitely where i want to be #wolfofwallstreet	0.0042	0.0718	0.924
+93	9	3.840233345997988e+17	86053743.0	0.0	0.0	0.0	0.0			#WolfOfWallStreet can't wait!!	0.0018	0.0111	0.9872
+94	10	3.838745728370852e+17	156214508.0	0.0	0.0	0.0	0.0	3.8387375559829504e+17	replied_to	@KaraboMpahane No need to shout, I can hear you! :-) *rubs hands* #WolfofWallStreet	0.0051	0.0789	0.916
+95	11	3.837850605470556e+17	289732664.0	0.0	0.0	0.0	0.0	3.837830787258327e+17	replied_to	@Abdaddy Very bad news #WolfOfWallStreet.. A push back is the worst sign	0.9506	0.0442	0.0052
+96	12	3.836869690892247e+17	1166256877.0	0.0	0.0	0.0	2.0	3.836533634489549e+17	retweeted	RT @MiBiz: The @GREconClub welcomes the #wolfofwallstreet, Jordan Belfort to GR, Oct. 7. Register to here him speak at http://t.co/HfIqF431…	0.0026	0.7341	0.2633
+97	13	3.8368318701819085e+17	131160583.0	0.0	0.0	0.0	0.0			@LeoDiCaprio cant wait to see #WolfOfWallStreet!!!	0.0016	0.0136	0.9848
+98	14	3.836646589486858e+17	961205342.0	0.0	0.0	0.0	2.0	3.836533634489549e+17	retweeted	RT @MiBiz: The @GREconClub welcomes the #wolfofwallstreet, Jordan Belfort to GR, Oct. 7. Register to here him speak at http://t.co/HfIqF431…	0.0026	0.7341	0.2633
+99	15	3.836533634489549e+17	38681688.0	0.0	0.0	0.0	2.0			The @GREconClub welcomes the #wolfofwallstreet, Jordan Belfort to GR, Oct. 7. Register to here him speak at http://t.co/HfIqF431Jk	0.0024	0.6854	0.3122
+100	16	3.8363292380063744e+17	1230470450.0	0.0	0.0	0.0	0.0			Zineb looking gorgeous! #bts #zineboukach #wolfofwallstreet #nyc #photoshoot #actress #ericksonbeamon… http://t.co/Vpwa0GPcWw	0.0022	0.0306	0.9672
+101	17	3.834268385271112e+17	1434613374.0	0.0	0.0	0.0	0.0			"Scorsese's '#WolfofWallStreet' May Not Be Ready for 2013
+http://t.co/qnV8pw6xoG
+@LeoDiCaprio @scorsesemartin @McConaughey @ParamountPics"	0.1297	0.7931	0.0772
+102	18	3.834164295774003e+17	21132805.0	0.0	0.0	0.0	0.0			Oscar-bait projects running out of the 2013 season because early contenders stealing their thunder #Foxcatcher #WolfOfWallStreet	0.4338	0.487	0.0792
+103	19	3.832586838134252e+17	276322218.0	0.0	0.0	0.0	0.0			@ParamountPics: When all the other studios take home all the Oscars, you'll have no one but your greedy selves to blame. #WolfOfWallStreet.	0.8859	0.1032	0.0109
+104	20	3.830618314574602e+17	91050492.0	0.0	0.0	0.0	0.0			Scorsese's Wolf of Wall Street May Get Pushed #scorsese #movie #film #wolfofwallstreet #push #oscar http://t.co/ZACI5rgqwH	0.0527	0.8798	0.0674
+105	21	3.830553294637712e+17	166865106.0	2.0	0.0	1.0	0.0			Can't put this down. #wolfofwallstreet http://t.co/CtmOPxuSgk	0.0056	0.0402	0.9542
+106	22	3.829806703702303e+17	27350862.0	0.0	0.0	0.0	0.0			Delayed release for #WolfOfWallStreet so Scorcese can cut the run time down from 3 hrs. Martin, we'd love to see a 3 hr version, come on!	0.2779	0.4909	0.2312
+107	23	3.829762112882156e+17	1043697776.0	0.0	0.0	0.0	0.0			It baffles me how @LeoDiCaprio  hasn't won a fucking oscar yet #unbelievable #wolfofwallstreet #gamechanger	0.877	0.0917	0.0312
+108	24	3.829750484723466e+17	1866085207.0	0.0	0.0	0.0	1.0	3.8297456197881856e+17	retweeted	RT @EnriqueRFord11: If The #WolfOfWallstreet film is push to 2014, holy shit. What's wrong with #Dicaprio movies, 1st #ShutterIsland and th…	0.8298	0.1564	0.0139
+109	25	3.8297456197881856e+17	54002337.0	0.0	0.0	0.0	1.0			If The #WolfOfWallstreet film is push to 2014, holy shit. What's wrong with #Dicaprio movies, 1st #ShutterIsland and then #GreatGatsby	0.8267	0.154	0.0193
+110	26	3.829154271707792e+17	71635368.0	0.0	0.0	0.0	0.0	3.8291506607057306e+17	replied_to	@slashfilm 2014 becomes the year of McConaughey so! #TrueDetective #Interstellar #WolfOfWallStreet	0.0037	0.6403	0.356
+111	27	3.8290055371125146e+17	24808701.0	0.0	0.0	0.0	0.0			I'd rather take a 3-hour Scorsese movie this year in time for Oscar season, than wait for a shortened version next year. #wolfofwallstreet	0.2079	0.4566	0.3356
+112	0	3.960531799613399e+17	99757777.0	1.0	0.0	0.0	1.0			2nd #WolfofWallStreet trailer... #cannotwait	0.0024	0.0291	0.9686
+113	1	3.960456614243287e+17	257517997.0	0.0	0.0	0.0	3.0	3.953551873693614e+17	retweeted	RT @MovieWeb: Second The Wolf of Wall Street Trailer http://t.co/my5UTnArHx #TheWolfOfWallStreet #WolfOfWallStreet #LeonardoDiCaprio	0.0042	0.8684	0.1274
+114	2	3.9603937253904384e+17	32145194.0	3.0	0.0	0.0	0.0			The new trailer for #WolfofWallStreet. This has all the elements of another Scorsese classic. Can't wait. http://t.co/Pz27EZOAXA	0.0016	0.0106	0.9877
+115	3	3.9603619035416166e+17	199019346.0	6.0	0.0	0.0	0.0			Give me Leo or give me death #wolfofwallstreet	0.3191	0.5973	0.0835
+116	4	3.960278013728645e+17	516836191.0	0.0	0.0	0.0	1.0			@JordanBelfort #EPIC - cannot wait for this movie. Loved the book: http://t.co/g8Ca19rufG #wolfofwallstreet #jasonbelfort #money	0.0021	0.0101	0.9877
+117	5	3.9601983854545306e+17	23563560.0	0.0	0.0	0.0	0.0			Now this #WolfOfWallStreet trailer makes me want to see the film. http://t.co/NnbforRuzI Now I know what it's about.	0.0092	0.1105	0.8802
+118	6	3.960054097370235e+17	122428616.0	0.0	0.0	1.0	0.0			pretty sure i just found @brianbowsher a new favorite movie http://t.co/fT93wb0bMI #wolfofwallstreet	0.0015	0.0252	0.9733
+119	7	3.959971618231419e+17	28065419.0	0.0	0.0	0.0	0.0			Wolf of Wall Street is 2hr and 45 mins ..... #Scorsese gotta be kidding me. #movie #wolfofwallstreet #whateverhappenedto120mins	0.5235	0.3737	0.1029
+120	8	3.959721924096328e+17	291210046.0	0.0	0.0	0.0	0.0			Every time I watch the #WolfofWallStreet trailer, an angel orgasms her wings off. #Leo #Leo #Leo #Leo #Leo #Leo #Leo #Leo #Leo #Leo #Leo	0.0126	0.1813	0.806
+121	9	3.9596387509262336e+17	30813816.0	0.0	0.0	0.0	1.0	3.95953070280278e+17	retweeted	RT @Primetime_Keim: Can't wait for #WolfofWallstreet to hit theaters #makemoney	0.0016	0.0268	0.9716
+122	10	3.9595506947014656e+17	240009813.0	0.0	0.0	0.0	6.0	3.955151500666552e+17	retweeted	RT @mattjpsmith: Big film! Excited to see this #WolfOfWallStreet http://t.co/Ac9TZNggqU	0.0015	0.0109	0.9876
+123	11	3.95953070280278e+17	394918291.0	0.0	0.0	0.0	1.0			Can't wait for #WolfofWallstreet to hit theaters #makemoney	0.0024	0.0223	0.9753
+124	12	3.959485283603784e+17	25127170.0	1.0	0.0	0.0	0.0	3.9594188243994624e+17	replied_to	@whiskeysoaking it looks epic. I'm reading the book now. #wolfofwallstreet	0.0022	0.0126	0.9852
+125	13	3.959206575546245e+17	164835306.0	0.0	0.0	0.0	0.0			#wolfofwallstreet looks ridiculous can't wait...	0.0882	0.1321	0.7798
+126	14	3.95919200843477e+17	22024824.0	0.0	0.0	0.0	1.0	3.959181915047977e+17	retweeted	RT @MyUniHub: The Big Bad Wolf is Coming! #WolfofWallStreet best trailer so far! http://t.co/wHkP9GQiXy	0.0029	0.0563	0.9408
+127	15	3.959181915047977e+17	210578261.0	0.0	0.0	0.0	1.0			The Big Bad Wolf is Coming! #WolfofWallStreet best trailer so far! http://t.co/wHkP9GQiXy	0.0049	0.0409	0.9542
+128	16	3.958849065316598e+17	219698799.0	0.0	0.0	1.0	0.0			New #WolfofWallStreet trailer: http://t.co/i9uPdrT6st #swoon	0.007	0.2188	0.7743
+129	17	3.958737464492073e+17	27408764.0	0.0	0.0	0.0	0.0			Leonardo DiCaprio. Martin Scorcese. The dream team. This looks so much fun! Can't wait! #WolfofWallStreet https://t.co/PbI0g6K8RQ	0.0014	0.0119	0.9867
+130	18	3.958730363703378e+17	266295169.0	0.0	0.0	0.0	0.0			the back of my cousins' head is in the new #WolfOfWallStreet trailer, so yeah... he's kind of a big deal	0.0696	0.7146	0.2158
+131	19	3.9585384800874086e+17	108293423.0	0.0	0.0	0.0	0.0			#LeonardoDiCaprio in the #WolfofWallStreet - Trailer #2 &gt;&gt; http://t.co/1oRAGKB8nA http://t.co/az9rEJeUM4	0.0026	0.7876	0.2098
+132	20	3.958165649411564e+17	115775895.0	0.0	0.0	1.0	0.0			The #WolfOfWallStreet is #CatchMeIfYouCan grown up, and also - I'm presuming - not based on a real story	0.8347	0.1524	0.0129
+133	21	3.957498118841385e+17	1160463846.0	0.0	0.0	0.0	0.0			Check out http://t.co/GDJBacEuYv to see the new #trailer for #WolfOfWallStreet . Spoiler... It looks amazing!	0.0016	0.0174	0.9811
+134	22	3.957491601983693e+17	1013770369.0	0.0	0.0	0.0	0.0	3.95745840494805e+17	replied_to	@wolfofwallst can't friggin wait!! #wolfofwallstreet	0.0025	0.0151	0.9824
+135	23	3.9573845617895424e+17	169739245.0	0.0	0.0	0.0	0.0			New #WolfOfWallStreet trailer!!!! Via @IGN http://t.co/WwEEdVsDXe	0.0023	0.2138	0.7839
+136	24	3.9573299858415616e+17	25442307.0	1.0	0.0	0.0	0.0			Here's another #WolfOfWallStreet taster: http://t.co/sRt3qN7tOr @LeoDiCaprio @JonahHill #ChristmasDay #Excited #Mornings9	0.0014	0.019	0.9796
+137	25	3.957280934257296e+17	255314414.0	0.0	0.0	0.0	2.0	3.957173862773719e+17	retweeted	RT @JonSchnepp: Wednesday @AMCMovieNews  with @johncampea and I talking about #WolfOfWallStreet, Spiderman 2, Patiend Z and more: http://t.…	0.0034	0.8777	0.119
+138	26	3.957181120681083e+17	28874519.0	0.0	0.0	0.0	2.0	3.957173862773719e+17	retweeted	RT @JonSchnepp: Wednesday @AMCMovieNews  with @johncampea and I talking about #WolfOfWallStreet, Spiderman 2, Patiend Z and more: http://t.…	0.0034	0.8777	0.119
+139	27	3.957173862773719e+17	329313503.0	1.0	0.0	1.0	2.0			Wednesday @AMCMovieNews  with @johncampea and I talking about #WolfOfWallStreet, Spiderman 2, Patiend Z and more: http://t.co/dxv6RPYTpc	0.0027	0.8001	0.1973
+140	0	4.069340427400233e+17	119553595.0	0.0	0.0	0.0	1.0	4.069283686683853e+17	retweeted	RT @jennasantenna: #WolfOfWallStreet screening @SAGFoundation !	0.0087	0.9341	0.0572
+141	1	4.06931718356992e+17	38620483.0	1.0	0.0	0.0	0.0			#WolfofWallStreet is going to be one hell of a movie #money and #power is what we all want #bigdreams #dontcomecheap #CNBC #FOXBusiness	0.0052	0.0385	0.9563
+142	2	4.069308729115525e+17	63219844.0	1.0	0.0	1.0	1.0			The BEST FILM IVE SEEN ALL YEAR. period. Man!!!! #wolfofwallstreet #movies #actors http://t.co/A2eVGa8yG7	0.0033	0.0096	0.9871
+143	3	4.069290418877481e+17	74794254.0	1.0	0.0	0.0	0.0			#WolfofWallStreet commercial. Jonah Hill looks like a possible contender for a Oscar.	0.0054	0.0958	0.8988
+144	4	4.06926553134932e+17	37708572.0	1.0	0.0	0.0	0.0			Just saw the trailer for @wolfofwallst on @USA_Network - movie looks awesome!  Definitely seeing it opening day!  #wolfofwallstreet	0.0019	0.01	0.9882
+145	5	4.068767055176253e+17	14094131.0	0.0	0.0	0.0	540.0	4.053759052098028e+17	retweeted	RT @DarrenAronofsky: scorsese latest #WolfOfWallStreet hilarious, gutwrenching. @LeoDiCaprio fearless, brave, brilliant @JonahHill revelati…	0.0055	0.0491	0.9454
+146	6	4.068682614189793e+17	1589251639.0	1.0	0.0	0.0	0.0			#WolfofWallStreet sounds quite Citizen Kane-y to me; the rise and fall of a wealthy man, acclaimed director and lead actor.	0.165	0.7178	0.1172
+147	7	4.0685052687026586e+17	303913211.0	1.0	0.0	0.0	0.0			U need to go see #wolfofwallstreet	0.0162	0.6746	0.3091
+148	8	4.068337762080031e+17	93188265.0	1.0	0.0	0.0	0.0	4.051285243793244e+17	replied_to	RT @ronauteur: New #WolfOfWallStreet poster http://t.co/ordY9orXlP &lt; 👌	0.0043	0.683	0.3126
+149	9	4.068281809015931e+17	220308248.0	0.0	0.0	0.0	540.0	4.053759052098028e+17	retweeted	RT @DarrenAronofsky: scorsese latest #WolfOfWallStreet hilarious, gutwrenching. @LeoDiCaprio fearless, brave, brilliant @JonahHill revelati…	0.0055	0.0491	0.9454
+150	10	4.068221352276296e+17	600497429.0	1.0	0.0	0.0	0.0			Too many movies I want to see this season the short list: #Frozen #SavingMrBanks #WolfOfWallStreet #AmericanHustle #CatchingFire What else?	0.0542	0.4006	0.5451
+151	11	4.068172781942252e+17	579397454.0	0.0	0.0	0.0	0.0			Best Google Image Search Ever: #WolfOfWallStreet gifs http://t.co/qvOrSjSeOP	0.0024	0.0217	0.9758
+152	12	4.068105201848402e+17	27740408.0	2.0	0.0	0.0	0.0			I really want to watch movies with quality. Hunger Games Catching Fire started up my addiction /: #WolfOfWallStreet	0.0286	0.2052	0.7662
+153	13	4.068081500846817e+17	109236829.0	0.0	0.0	0.0	540.0	4.053759052098028e+17	retweeted	RT @DarrenAronofsky: scorsese latest #WolfOfWallStreet hilarious, gutwrenching. @LeoDiCaprio fearless, brave, brilliant @JonahHill revelati…	0.0055	0.0491	0.9454
+154	14	4.0679741227218125e+17	249321159.0	1.0	0.0	0.0	0.0			The new Leo movie looks awesome.#WolfOfWallStreet	0.0022	0.0118	0.986
+155	15	4.067972467439903e+17	1974890844.0	1.0	0.0	0.0	0.0			I can't wait to Xmas weekend #WolfOfWallStreet	0.0019	0.0118	0.9863
+156	16	4.06793648169173e+17	85322083.0	0.0	0.0	0.0	2.0	4.067808188795699e+17	retweeted	RT @MikeObrienFilm: Despite the cuts, 'The Wolf of Wall Street' is Scorsese's longest film to date. It runs 2 hours and 59 minutes. #WolfOf…	0.0041	0.286	0.7099
+157	17	4.0678518085505024e+17	12757912.0	0.0	0.0	0.0	2.0	4.067808188795699e+17	retweeted	RT @MikeObrienFilm: Despite the cuts, 'The Wolf of Wall Street' is Scorsese's longest film to date. It runs 2 hours and 59 minutes. #WolfOf…	0.0041	0.286	0.7099
+158	18	4.067808188795699e+17	106647962.0	1.0	0.0	0.0	2.0			Despite the cuts, 'The Wolf of Wall Street' is Scorsese's longest film to date. It runs 2 hours and 59 minutes. #WolfOfWallStreet	0.0047	0.1938	0.8015
+159	19	4.067767915847434e+17	853815708.0	1.0	0.0	0.0	0.0			I forgot that Leonardo DiCaprio's movie is now in theaters! Can't wait to see it! #WolfOfWallStreet 😏☺️	0.0018	0.0109	0.9874
+160	20	4.067503954329641e+17	745129934.0	0.0	0.0	0.0	0.0			Really want to see #wolfofwallstreet Idc Leonardo is still fit	0.0067	0.0762	0.9171
+161	21	4.067488630230508e+17	61311962.0	0.0	0.0	0.0	540.0	4.053759052098028e+17	retweeted	RT @DarrenAronofsky: scorsese latest #WolfOfWallStreet hilarious, gutwrenching. @LeoDiCaprio fearless, brave, brilliant @JonahHill revelati…	0.0055	0.0491	0.9454
+162	22	4.067375824881828e+17	47202467.0	0.0	0.0	0.0	540.0	4.053759052098028e+17	retweeted	RT @DarrenAronofsky: scorsese latest #WolfOfWallStreet hilarious, gutwrenching. @LeoDiCaprio fearless, brave, brilliant @JonahHill revelati…	0.0055	0.0491	0.9454
+163	23	4.066976164966564e+17	50001642.0	0.0	0.0	0.0	540.0	4.053759052098028e+17	retweeted	RT @DarrenAronofsky: scorsese latest #WolfOfWallStreet hilarious, gutwrenching. @LeoDiCaprio fearless, brave, brilliant @JonahHill revelati…	0.0055	0.0491	0.9454
+164	24	4.066770087738327e+17	22279151.0	0.0	0.0	0.0	0.0			Brilliant marketing #wolfofwallstreet #film #filmmaking #sagaftra #awardsseason http://t.co/Cu6LPOPyaA	0.0036	0.0523	0.9441
+165	25	4.066617512673936e+17	395085696.0	1.0	0.0	0.0	0.0			Time to book it! #WolfOfWallStreet #PaloAlto http://t.co/B5JjBLtXms	0.0037	0.4858	0.5105
+166	26	4.066526390706749e+17	40162715.0	0.0	0.0	0.0	0.0			Movies I still want to see in 2013: #Frozen @AmericanHustle #WolfOfWallStreet @OutOfTheFurnace #Her #GrudgeMatch #TheSecretLifeOfWalterMitty	0.0102	0.5275	0.4624
+167	27	4.066255324076073e+17	1928773033.0	1.0	0.0	0.0	0.0			So the whole #WolfOfWallStreet @MPAA deal...still don't get the big deal over sex. Let Scorsese do what he wants. Jeez.	0.8219	0.1664	0.0117
+168	0	4.181693691986166e+17	98228217.0	0.0	0.0	0.0	0.0			Maybe seeing #WolfOfWallStreet tonight. It is so long the year will change while I'm watching it.	0.0268	0.4138	0.5594
+169	1	4.181691137986683e+17	226572540.0	1.0	0.0	0.0	0.0			#LT But something tells me blowing coke up hookers asses with a straw will not be getting DiCaprio his first Oscar hahaha #WolfOfWallStreet	0.3953	0.4414	0.1633
+170	2	4.18167683591336e+17	918122052.0	0.0	0.0	0.0	0.0			Happy #NewYears every one, I'm going to see #wolfofwallstreet again then hitting the bars.	0.0015	0.0206	0.9778
+171	3	4.181674778732831e+17	372487870.0	5.0	0.0	2.0	1.0			Will seeing #BlueIsTheWarmestColor while detoxing from #wolfofwallstreet give me too much #feministrage?	0.3309	0.6213	0.0478
+172	4	4.18167043230548e+17	1423477045.0	0.0	0.0	0.0	0.0			Leo needs to win best actor for #wolfofwallstreet #amazing	0.0053	0.0464	0.9483
+173	5	4.181660432115999e+17	20842326.0	1.0	0.0	0.0	0.0			#wolfofwallstreet best film I've seen in a very very long time	0.0027	0.0108	0.9865
+174	6	4.181652295082312e+17	17872188.0	1.0	0.0	0.0	0.0			#NowWatching #wolfofwallstreet Leo is the GOAT http://t.co/dBJGrHHoxG	0.0039	0.2193	0.7768
+175	7	4.181649102378107e+17	44566806.0	0.0	0.0	0.0	0.0			@rainnwilson with all your tweets re: #WolfofWallStreet I've realized you're a much cooler Dwight. #imeanthatasacompliment	0.0166	0.1393	0.8441
+176	8	4.181646581685412e+17	24777855.0	0.0	0.0	0.0	0.0			Went to see #wolfofwallstreet.	0.0077	0.6657	0.3266
+177	9	4.181639518858896e+17	82642760.0	0.0	0.0	0.0	0.0			Entertaining movie. #WolfOfWallStreet	0.0029	0.0159	0.9812
+178	10	4.18163331740885e+17	1912460227.0	0.0	0.0	0.0	0.0			#wolfofwallstreet is the movie of the year	0.0067	0.074	0.9194
+179	11	4.181623807663432e+17	1160931098.0	0.0	0.0	0.0	0.0			#WolfofWallStreet was great.	0.0037	0.0144	0.9819
+180	12	4.181601506884403e+17	35256159.0	0.0	0.0	0.0	0.0			I'm saying it... #wolfofwallstreet was everything I wanted #AmericanHustle to be. No one does Marty better than Marty!!	0.0053	0.0247	0.9699
+181	13	4.181596985932022e+17	1140908538.0	0.0	0.0	0.0	0.0			2013 was the year of #gangnamstyle.  2014 is going to be the year of #wolfstyle @RichRSimons #wolfofwallstreet #totaldomination	0.0129	0.6517	0.3354
+182	14	4.181592995135734e+17	1102932006.0	0.0	0.0	0.0	0.0			Happy New Year #NewYearsMEGAMIX #NYE #WallStreet #wolfofwallstreet #forex #trading #pips #NewYork #nyc http://t.co/5REQKmb8hZ	0.0022	0.0514	0.9464
+183	15	4.18157896405246e+17	432152735.0	0.0	0.0	0.0	0.0			@boxofficemojo Loved Watching #wolfofwallstreet @LeoDiCaprio  Did an awesome job, I am giving this movie A++++++++++++++++++ Great Movie.	0.0034	0.0078	0.9888
+184	16	4.1815753810683085e+17	20659086.0	0.0	0.0	0.0	0.0	4.181432674697953e+17	replied_to	@MEGAMarketingNW Let me know what you think when you see it. #WolfofWallStreet	0.0192	0.8875	0.0933
+185	17	4.181571783617618e+17	148858940.0	0.0	0.0	0.0	0.0			#wolfofwallstreet was #dope with jacmarvin http://t.co/WJRjNI3xDl	0.0079	0.4959	0.4961
+186	18	4.1815699921423565e+17	332500439.0	1.0	0.0	0.0	0.0			#wolfofwallstreet using 'fuck' 506 in times in 3 hours is impressive, but my use of the word in that timeframe is much worse.	0.8529	0.1247	0.0224
+187	19	4.181569738974249e+17	87241708.0	0.0	0.0	0.0	0.0			About to watch #wolfofwallstreet	0.0067	0.8416	0.1517
+188	20	4.1815536419905946e+17	307638906.0	1.0	0.0	0.0	0.0			Oh Leo, Leo, Leo... #wolfofwallstreet	0.0186	0.4859	0.4955
+189	21	4.181543160592507e+17	139127702.0	0.0	0.0	0.0	0.0			Maybe I should read some of this #wolfofwallstreet stuff... #peoplereallyseemtohateit	0.6815	0.2925	0.026
+190	22	4.181539180537692e+17	42045968.0	0.0	0.0	0.0	0.0			Mmmmmmm (pounds chest) mmmmmmm mmmmmm #wolfofwallstreet	0.014	0.749	0.237
+191	23	4.1815342961408e+17	347394955.0	1.0	0.0	0.0	0.0			About to go see #wolfofwallstreet gonna be the last movie I watch this year	0.1017	0.5688	0.3295
+192	24	4.181528779288822e+17	30086232.0	0.0	0.0	0.0	1.0	4.181522826522788e+17	retweeted	RT @aptendy33: @LeoDiCaprio deserves to win best actor for his performance in #wolfofwallstreet Fantastic movie, be choked if he doesn't	0.0084	0.0262	0.9654
+193	25	4.181528007033569e+17	30086232.0	0.0	0.0	0.0	0.0			Just saw #wolfofwallstreet....phenomenal movie!  Leo was amazing!	0.0036	0.0087	0.9877
+194	26	4.181524783753093e+17	139127702.0	0.0	0.0	1.0	0.0			Time to read all the posts I've favorited about #wolfofwallstreet	0.0064	0.2853	0.7082
+195	27	4.181522826522788e+17	202351821.0	0.0	0.0	0.0	1.0			@LeoDiCaprio deserves to win best actor for his performance in #wolfofwallstreet Fantastic movie, be choked if he doesn't	0.0095	0.027	0.9634
+196	0	4.294036089969132e+17	1173062412.0	0.0	0.0	0.0	0.0			Wolf Of Wall Street was ruddy brilliant! A must watch for all you film fanatics! #wolfofwallstreet #fantastic	0.0025	0.009	0.9885
+197	1	4.294034533001544e+17	153620519.0	1.0	0.0	0.0	0.0	4.2934698558253056e+17	replied_to	“@Dec_Fox: Date night @Kristal_katie 👫❤️#wolfofwallstreet Happy Chinese New Year 😁🎎🎊”🙈😂✌️	0.0019	0.0191	0.9789
+198	2	4.2940331456096256e+17	313198885.0	0.0	0.0	1.0	0.0			I fuked here brains out for 11 seconds hahaha #wolfofwallstreet	0.531	0.2803	0.1887
+199	3	4.2940302736439296e+17	146952925.0	2.0	0.0	0.0	0.0			"3 fucking hours?!?!? Seriously ????
+This shot was longer than Hobbit!
+#wolfofwallstreet"	0.8488	0.1205	0.0307
+200	4	4.2940292553927066e+17	465847642.0	2.0	0.0	1.0	0.0			If @LeoDiCaprio doesn't win an oscar for #wolfofwallstreet there is something wrong with this world we live in!! 🙏👏🙌	0.5084	0.2645	0.2271
+201	5	4.294024033358397e+17	221036886.0	0.0	0.0	0.0	1.0	4.293942273454899e+17	retweeted	RT @FabAge: Man. The movie long. #Wolfofwallstreet	0.034	0.5212	0.4448
+202	6	4.294022119913185e+17	402849589.0	0.0	0.0	0.0	0.0			This has just made my night #wolfofwallstreet http://t.co/bO3u8lRsWb	0.0024	0.0122	0.9854
+203	7	4.294020608327844e+17	106586095.0	0.0	0.0	0.0	0.0			Leo is practically wolfy. #wolfofwallstreet #review	0.1404	0.7061	0.1535
+204	8	4.2940096596883866e+17	20775197.0	0.0	0.0	1.0	0.0	4.293996516207493e+17	replied_to	@LeanneForshaw you were injured.... I'm certain he forgives you #wolfofwallstreet	0.2277	0.5881	0.1842
+205	9	4.294008102888653e+17	377440244.0	0.0	0.0	0.0	0.0			Loved #wolfofwallstreet	0.0036	0.0179	0.9785
+206	10	4.294005694225531e+17	383278080.0	0.0	0.0	0.0	0.0			A bit on the long side but nicely done and very entertaining #wolfofwallstreet	0.0029	0.0262	0.9709
+207	11	4.2940053973908685e+17	1337917980.0	0.0	0.0	1.0	0.0			UGH I wish @Erwinanne lived here so we could go see @kylechandler in #WolfOfWallStreet	0.1613	0.4057	0.433
+208	12	4.294002711991542e+17	164583315.0	0.0	0.0	0.0	0.0			@LeoDiCaprio #wolfofwallstreet what a fantastic film and very funny (country club) extremely great acting.	0.0037	0.0093	0.987
+209	13	4.2940026532295066e+17	338534095.0	1.0	0.0	0.0	0.0			"""I've been rich and I've been poor and I choose rich EVERY FUCKING TIME"" #wolfofwallstreet"	0.6105	0.2822	0.1073
+210	14	4.2939986286270464e+17	560660169.0	1.0	0.0	0.0	0.0			Just sold myself a drink #wolfofwallstreet #sicksalesman #salesmancity	0.0566	0.6458	0.2976
+211	15	4.293996516207493e+17	17024216.0	1.0	0.0	1.0	0.0			Dear Leo. I'm sorry for waiting two weeks to see possibly your greatest ever performance. #wolfofwallstreet	0.0745	0.1645	0.761
+212	16	4.293995802165494e+17	293972969.0	0.0	0.0	0.0	0.0			Chose #wolfofwallstreet as thought it would be less depressing than #12YearsASlave Not sure it was, really......	0.6666	0.2803	0.0531
+213	17	4.293994363523195e+17	41365286.0	0.0	0.0	0.0	0.0			Watched #wolfofwallstreet today, very enjoyable if you can disengage from the characters. #Her still the best film of 2013 in my opinion.	0.003	0.0175	0.9795
+214	18	4.2939826044144026e+17	20984857.0	0.0	0.0	1.0	0.0			@stephicampbell please don't tell me Leo has sex with Joanna Lumley?! #wolfofwallstreet	0.5338	0.4422	0.024
+215	19	4.29397948305535e+17	298735976.0	0.0	0.0	0.0	0.0			Now I know why #wolfofwallstreet is an 18 :-|	0.7559	0.2173	0.0268
+216	20	4.293977519320187e+17	157037372.0	0.0	0.0	0.0	0.0			I KNEW it! The lion was there first! #wolfofwallstreet #vfxbreakdown http://t.co/cBoxyLctdm	0.0404	0.5294	0.4302
+217	21	4.29397691437953e+17	74239144.0	0.0	0.0	0.0	0.0			Watching #WolfOfWallStreet again ..well because ....Leo😍 #agirlcandream	0.0033	0.0508	0.9459
+218	22	4.293976551656325e+17	41556809.0	0.0	0.0	0.0	0.0			Another great Leo dicaprio film love him #wolfofwallstreet	0.0032	0.0134	0.9834
+219	23	4.293971376933437e+17	2212901899.0	0.0	0.0	0.0	48231.0	4.191983750539018e+17	retweeted	RT @justinbieber: movies to see this weekend. #BelieveMovie and #wolfofwallstreet.	0.003	0.5782	0.4188
+220	24	4.293965531919196e+17	351145211.0	0.0	0.0	0.0	0.0			#wolfofwallstreet Mr.StockBroker Winning Film!	0.0046	0.0834	0.912
+221	25	4.293962048885228e+17	227669820.0	0.0	0.0	1.0	0.0			how leo still looks like god when dribbling and crawling across the floor like a dinosaur is beyond me! #wolfofwallstreet	0.5411	0.3547	0.1043
+222	26	4.293961810607063e+17	577207995.0	0.0	0.0	0.0	1.0	4.293932953711411e+17	retweeted	RT @coolbthewizard: when life gives you lemmons.....#wolfofwallstreet	0.0187	0.882	0.0993
+223	27	4.293960328168243e+17	22249960.0	0.0	0.0	0.0	0.0			I have a sudden urge to do hard drugs #WolfOfWallStreet	0.3637	0.5395	0.0969
+224	0	4.39550416335147e+17	107313699.0	4.0	0.0	0.0	1.0			Oscar talk w #WolfofWallStreet actor @pj_Byrne. Which movie do u think will win? #Oscar #Ellen #BeautyBib http://t.co/dreR9wsb4h	0.0066	0.8309	0.1625
+225	1	4.3954972089020006e+17	150947785.0	0.0	0.0	0.0	0.0			#TwelveYearsASlave, #AmericanHustle, and #WolfOfWallStreet are the movies I HAVE to see !	0.0053	0.0995	0.8952
+226	2	4.3954891828035584e+17	140534258.0	0.0	0.0	0.0	0.0	4.3950042351140864e+17	replied_to	@jauntingjourno I hear you. Just warning you it does feel like three long hours of lots of highs and lows #wolfofwallstreet #Oscars2014	0.2812	0.5433	0.1754
+227	3	4.395486103894876e+17	2179078130.0	0.0	0.0	0.0	48231.0	4.191983750539018e+17	retweeted	RT @justinbieber: movies to see this weekend. #BelieveMovie and #wolfofwallstreet.	0.003	0.5782	0.4188
+228	4	4.395473510455214e+17	346276934.0	0.0	0.0	0.0	1.0	4.395472880596746e+17	retweeted	RT @court_karpiej: So excited to see #wolfofwallstreet with @staszowski @SarahCimz and @daniellethorpie 😁	0.0012	0.0095	0.9893
+229	5	4.395472880596746e+17	377095815.0	2.0	0.0	0.0	1.0			So excited to see #wolfofwallstreet with @staszowski @SarahCimz and @daniellethorpie 😁	0.0013	0.0087	0.9899
+230	6	4.395455621161288e+17	121259701.0	0.0	0.0	0.0	0.0			"#wolfofwallstreet was a tremendous piece of cinema. 
+Di Caprio is OUTSTANDING!!"	0.0054	0.0174	0.9772
+231	7	4.395440934890045e+17	416643299.0	0.0	0.0	0.0	0.0			When life gives you lemons 😬😄 lol #wolfofwallstreet #toofunny	0.0275	0.333	0.6395
+232	8	4.395435804585165e+17	74588400.0	0.0	0.0	0.0	0.0			At some point, I thought it was never gonna end. #wolfofwallstreet	0.5512	0.4046	0.0442
+233	9	4.395433688852398e+17	182895073.0	0.0	0.0	0.0	0.0			There is only one wolf http://t.co/RHiYuNG6t8 @TheAcademy @OscarsAwards #Oscars #WolfOfWallStreet @LeoDiCaprio @TheWolfofWallSt	0.0094	0.7472	0.2434
+234	10	4.395423473624842e+17	107735275.0	7.0	0.0	0.0	1.0			After #wolfofwallstreet ... Every Tom, Dick and Harry wants to be wolf of something! Wolf of Chelsea, Hackney, Essex ... Fml 😂	0.4181	0.486	0.0959
+235	11	4.395421601958748e+17	299614662.0	0.0	0.0	0.0	0.0			fancy Leonardo DiCaprio so much more now 😍😍 #wolfofwallstreet	0.0029	0.0287	0.9684
+236	12	4.395398723200778e+17	849558128.0	0.0	0.0	0.0	0.0			#Oscars = #wolfofwallstreet #wolfofwallstreet  #wolfofwallstreet  #wolfofwallstreet  #wolfofwallstreet  #wolfofwallstreet  it has to be!	0.1281	0.6506	0.2213
+237	13	4.3953832633358746e+17	419767039.0	0.0	0.0	0.0	0.0			The wolf of Wall Street was class highly recommend it #wolfofwallstreet #LeonardoDiCaprio	0.0034	0.0281	0.9685
+238	14	4.395361476610621e+17	371783794.0	0.0	0.0	0.0	1.0	4.395216853779333e+17	retweeted	RT @EmaStainthorpe: Well after #WolfOfWallStreet and now #TheGreatGatsby if I wasn't already head over heels for Leo I am now 💘	0.0044	0.0511	0.9445
+239	15	4.395352181278269e+17	2371597473.0	0.0	0.0	0.0	56.0	4.38141414409384e+17	retweeted	RT @YahooMovies: Looking back at @LeoDiCaprio's greatest roles, from 'Gilbert Grape' to #wolfofwallstreet: http://t.co/h4bYKPOJHh http://t.…	0.0024	0.1863	0.8114
+240	16	4.395351550073488e+17	1008350096.0	0.0	0.0	0.0	1.0			"#Writing #Character Type
+#Visionary
+#Jobs
+#Pi
+#WolfOfWallStreet
+
+http://t.co/ozUMb2J2FR
+#ff @GoIntoTheStory #WriteNow"	0.0375	0.8011	0.1614
+241	17	4.395334212502487e+17	48160618.0	0.0	0.0	0.0	0.0			Happy Friday! #oscars #oscarweekend #wolfofwallstreet http://t.co/4Dui8mMqLG	0.0013	0.0107	0.9881
+242	18	4.3953307516144026e+17	969766958.0	0.0	0.0	0.0	0.0			Movie is so long! So good though! #drugs #rich #money #wolfofwallstreet	0.0061	0.025	0.9688
+243	19	4.3953271044993024e+17	91018208.0	0.0	0.0	0.0	0.0			#wolfofwallstreet Brill film! I saw glimmers of legend Jack Nicholson in Leonardos performance, so good! Fab cast, fab film. #believethehype	0.0028	0.0087	0.9885
+244	20	4.395318880853074e+17	579725685.0	0.0	0.0	0.0	0.0			Finally got to watch #WolfOfWallStreet!  its a great movie but far too long #thumbsup	0.0083	0.0281	0.9636
+245	21	4.395317669706056e+17	2308597599.0	0.0	0.0	0.0	0.0			Went to see #wolfofwallstreet tonight-loved it!! Great story, great acting, great film....#amazing	0.0037	0.0078	0.9885
+246	22	4.395312528873554e+17	1102303260.0	0.0	0.0	1.0	0.0	4.3952539307096064e+17	replied_to	@adamemccann @fivethirtyeight @tableau I think you're right on, though I was hoping that @LeifThomas96 #wolfofwallstreet would score higher!	0.0107	0.1025	0.8868
+247	23	4.395304389365023e+17	349268076.0	0.0	0.0	0.0	0.0			Finishing off #wolfofwallstreet with a cold beer with @TessBefuddled	0.0048	0.5858	0.4094
+248	24	4.395290500426875e+17	85904531.0	0.0	0.0	0.0	0.0			My review of the #Oscar nominated film #WolfOfWallStreet You still have time to see it before Sunday! #TracysTake http://t.co/2ZyKIWUGS9	0.0029	0.2286	0.7685
+249	25	4.395282516736778e+17	138517892.0	0.0	0.0	0.0	0.0			'Wolf of Wall Street' to Win Best Picture Oscar, Internet Predicts http://t.co/j79gygy2Hw #wolfofwallstreet #oscars2014 #socialmedia	0.006	0.679	0.3151
+250	26	4.3952725211231846e+17	51490656.0	0.0	0.0	1.0	0.0	4.3952320395923456e+17	replied_to	@LisaLongLA - great question.  Personally i am a #Gravity fan, but #wolfofwallstreet and #12YearsASlave are contenders too.	0.0035	0.0371	0.9594
+251	27	4.395272054049464e+17	421271650.0	0.0	0.0	1.0	0.0			#cinema! :) #scorsese #wolfofwallstreet (@ Empire for The Wolf of Wall Street) http://t.co/KEEzJLOCQu	0.0013	0.0709	0.9278
+252	0	4.507845973079532e+17	1194456608.0	0.0	0.0	0.0	0.0			Arya is peacefully sleeping to some  lullabies. Time to watch #wolfofwallstreet and relax.	0.0062	0.2327	0.7611
+253	1	4.507842310990848e+17	296524236.0	4.0	0.0	1.0	0.0			Watching #wolfofwallstreet for the 3rd time. This movie is sick!! Can't get enough of Leo. 😍	0.003	0.01	0.987
+254	2	4.50783967138943e+17	368789421.0	1.0	0.0	0.0	0.0			It's Leo time! #WolfofWallStreet	0.0048	0.202	0.7932
+255	3	4.507838798596833e+17	522733956.0	7.0	0.0	1.0	1.0			Bonding time with the little bro #WolfOfWallStreet	0.0057	0.4498	0.5445
+256	4	4.507832353171702e+17	468348402.0	0.0	0.0	0.0	0.0			"iam still sad because leo made a great movie nd he didnt get an oscar 
+#wolfofwallstreet"	0.8428	0.1303	0.0269
+257	5	4.507819662713856e+17	75296244.0	0.0	0.0	0.0	0.0			"I described the opening scene from #wolfofwallstreet to my mom.  Mom: ""You can do that?"""	0.0223	0.7611	0.2166
+258	6	4.507819360891945e+17	842734368.0	0.0	0.0	0.0	0.0			Finally #wolfofwallstreet	0.0072	0.3032	0.6896
+259	7	4.507816045797949e+17	259949041.0	0.0	0.0	0.0	1.0	4.499358894985298e+17	retweeted	RT @jillianoyler: I've got a hangover just from watching #wolfofwallstreet	0.506	0.4256	0.0684
+260	8	4.507808550954148e+17	1016834299.0	1.0	0.0	0.0	0.0			Had to buy it! #wolfofwallstreet @LeoDiCaprio http://t.co/Fz7DEt1fL4	0.0059	0.1891	0.805
+261	9	4.5078014246639616e+17	560672341.0	0.0	0.0	0.0	1.0	4.507460595646505e+17	retweeted	"RT @gigglygracie: ""Moby fucking dicks""- Robert Deniro #wolfofwallstreet #wallstreet Lollll @smokesumsydney 😂 loving this movie"	0.0398	0.149	0.8113
+262	10	4.5077940812763136e+17	259949041.0	0.0	0.0	0.0	0.0			After watching the #WolfOfWallStreet I felt like cussing a lot today. Glad snorting coke off a hooker's ass wasn't on my to do list though!	0.8717	0.1	0.0282
+263	11	4.5077727259777024e+17	255736852.0	0.0	0.0	0.0	2.0	4.507636070729892e+17	retweeted	RT @KMullins4: I watched #WolfofWallStreet last night and now I hate my life.	0.9285	0.0646	0.0069
+264	12	4.50775739827114e+17	16590399.0	0.0	0.0	0.0	0.0			Longest movie ever... #wolfofwallstreet	0.3773	0.3788	0.2439
+265	13	4.507754145927905e+17	28617933.0	1.0	0.0	0.0	0.0			#wolfofwallstreet Leonardo DiCaprio is just so fing sexy.	0.0066	0.0467	0.9467
+266	14	4.507748669424927e+17	92258850.0	0.0	0.0	1.0	0.0			just watched #WolfOfWallStreet	0.0212	0.8592	0.1196
+267	15	4.507740071731036e+17	17645228.0	0.0	0.0	0.0	1.0	4.507716081692344e+17	retweeted	"RT @youhateevery: At YHE, ""instant replay"" still means ""so good you listen to it twice in a row."" New ep: http://t.co/qiv2t4dQ17 #DrugWar #…"	0.0052	0.2045	0.7903
+268	16	4.507739859159696e+17	66478594.0	3.0	0.0	0.0	0.0			In an Irish bar in NYC getting our pre night out grub! #WolfOfWallStreet http://t.co/BgWFS3znUk	0.004	0.4738	0.5223
+269	17	4.507738871153336e+17	245123576.0	1.0	0.0	1.0	0.0			Finally watching #wolfofwallstreet with @Abriganti2 👍	0.0015	0.0824	0.9161
+270	18	4.5077222790702285e+17	492509992.0	2.0	0.0	1.0	0.0			#wolfofwallstreet my new movie obsession #sellmethispen 💵💊🍸😘	0.0053	0.1397	0.855
+271	19	4.507716081692344e+17	2279437434.0	0.0	0.0	0.0	1.0			"At YHE, ""instant replay"" still means ""so good you listen to it twice in a row."" New ep: http://t.co/qiv2t4dQ17 #DrugWar #WolfofWallStreet"	0.0062	0.2016	0.7922
+272	20	4.507712256994222e+17	24755261.0	0.0	0.0	0.0	0.0			Plus, topless Leo is always a good thing #wolfofwallstreet	0.0044	0.0594	0.9362
+273	21	4.507710777701171e+17	462103249.0	6.0	0.0	1.0	0.0			Two Leonardo DiCaprio movies in a row 👌 #wolfofwallstreet #titanic #urhawt	0.0031	0.0953	0.9016
+274	22	4.507710099692012e+17	217343410.0	0.0	0.0	0.0	0.0			Watching #wolfofwallstreet again. #LoveIt	0.0029	0.0146	0.9825
+275	23	4.507676626713354e+17	311226929.0	0.0	0.0	0.0	0.0			Matthew McConaughey has me weak af #WolfofWallstreet	0.2513	0.3926	0.356
+276	24	4.507636070729892e+17	255690021.0	1.0	0.0	0.0	2.0			I watched #WolfofWallStreet last night and now I hate my life.	0.9435	0.0503	0.0062
+277	25	4.507634829806879e+17	317561920.0	0.0	0.0	0.0	1.0	4.507545849996452e+17	retweeted	RT @Dcastle91: Wow this movies awesome... Makes cocaine seem so fun #WolfOfWallStreet	0.0025	0.0105	0.987
+278	26	4.507615725251748e+17	738996799.0	0.0	0.0	0.0	0.0			If you not tryna get to the money after watchin this movie somethin wrong wit you. 💯 #WolfofWallStreet http://t.co/sv5vIBTuS8	0.6136	0.3342	0.0522
+279	27	4.507604477097001e+17	367468886.0	0.0	0.0	0.0	0.0			Their bold from the eyebrows down😂 #wolfofwallstreet	0.0593	0.5218	0.4189
+280	0	4.616553930943693e+17	245043387.0	0.0	0.0	1.0	0.0	4.616533173710684e+17	replied_to	"@TheCianCarroll Delighted for ya. Reminds me of the night you put up the link to #WolfOfWallStreet!
+
+*considers re-watching Senna...*"	0.0024	0.0225	0.9751
+281	1	4.616482055127368e+17	48554379.0	1.0	0.0	0.0	0.0			I got The Wolf of Wall Street! Which Martin Scorsese Film Are You? http://t.co/uIS7khS93x via @thewarclub #MartinScorsese #wolfofwallstreet	0.003	0.5311	0.466
+282	2	4.616448337704714e+17	1216760311.0	0.0	0.0	0.0	0.0			When someone you hate at school asks you for piece of gum 😤✊ #wolfofwallstreet  https://t.co/WY1ICQXvfj	0.8453	0.1358	0.0189
+283	3	4.6164449552039936e+17	355171925.0	1.0	0.0	0.0	0.0			Finally watching #WolfOfWallStreet 😍	0.002	0.021	0.977
+284	4	4.616436957505249e+17	2469575454.0	1.0	0.0	0.0	0.0	4.615591060592681e+17	replied_to	@LeoDiCaprio reading this thinking #wolfofwallstreet #quote save the #spottedowl #acterprobz #money #betterprson http://t.co/rg5l32kBKl	0.0678	0.7395	0.1928
+285	5	4.61640251854037e+17	56519205.0	0.0	0.0	0.0	0.0			Lieing back watching The Wolf of Wall Street :) 👌 #wolfofwallstreet	0.0015	0.0399	0.9586
+286	6	4.616314536890491e+17	35004606.0	0.0	0.0	0.0	0.0			@JordanBelfort charging €80.50 for a talk in the RDS? Good luck #wolfofwallstreet	0.0247	0.2675	0.7078
+287	7	4.616298835807027e+17	433931864.0	2.0	0.0	0.0	0.0			"Leo is always a dime. Even if he is ""consuming enough coke to sedate Manhattan, Long Island, and Queens for a month"" #wolfofwallstreet"	0.2004	0.6615	0.1381
+288	8	4.616162682617488e+17	14902429.0	0.0	0.0	0.0	4.0	4.615518871633388e+17	retweeted	"RT @StockPicksNYC: $ELTP at $0.48 !!! I alerted this yesterday at $0.44 on twitter exclusive.  
+#wolfofwallstreet @rickyrozay #miami #nyc #…"	0.008	0.4128	0.5792
+289	9	4.61615159195476e+17	591369769.0	0.0	0.0	0.0	0.0			Margot Robbie! 😍 #wcw #WolfOfWallStreet #hot #bae http://t.co/IWjfXYYfi6	0.0025	0.0241	0.9733
+290	10	4.616061073459773e+17	981659054.0	1.0	0.0	0.0	0.0			I will not die sober! GET THE FUCKING LUDES!!!! #wolfofwallstreet #ludes	0.8676	0.1065	0.0259
+291	11	4.61606053441196e+17	278010349.0	0.0	0.0	0.0	0.0			Needed a little encouragement #askleo #alltheanswers #wolfofwallstreet #breakdownWednesday #saveme… http://t.co/YkN99WayQJ	0.0858	0.6549	0.2593
+292	12	4.616017437095608e+17	280860289.0	0.0	0.0	0.0	0.0			Two people make a crime; three make a conspiracy #wolfofwallstreet	0.383	0.58	0.037
+293	13	4.616002421822751e+17	69980982.0	0.0	0.0	0.0	0.0			"""i will not die sober."" #wolfofwallstreet"	0.2455	0.6412	0.1133
+294	14	4.6159940530159616e+17	478161791.0	0.0	0.0	0.0	0.0			My grandpa just said he's borrowing my Leonard dicaprio movie. oh yeah? Who's that? #wolfofwallstreet	0.0219	0.4645	0.5136
+295	15	4.6159751395568845e+17	21313356.0	0.0	0.0	0.0	0.0	4.615700314707968e+17	replied_to	@AlexAllTimeLow agreed that @JonahHill was on point - and so was @LeoDiCaprio!  #wolfofwallstreet	0.0045	0.0596	0.9359
+296	16	4.615969701180375e+17	32111803.0	0.0	0.0	0.0	0.0			Bout to eat a healthy snack n watch #WolfOfWallStreet	0.0063	0.4125	0.5811
+297	17	4.615950953518408e+17	20748879.0	1.0	0.0	0.0	0.0			Sloop John B (1 folk song, 2 Beach Boys song) by #mefirst #thegimmes in #wolfofwallstreet. Thx @MikeSchraml for #mefirst intro many yrs ago	0.0071	0.5708	0.4221
+298	18	4.615946240420946e+17	98064785.0	0.0	0.0	0.0	0.0			'Wolf of Wall Street' Producer Attacks Racketeering Claim (Exclusive) http://t.co/MUo1RnGWOl #legalnews #entertainmentlaw #WolfofWallStreet	0.3891	0.5938	0.017
+299	19	4.615915418032701e+17	1104284203.0	0.0	0.0	0.0	0.0			"Mid-way watching #wolfofwallstreet 
+What acting @LeoDiCaprio !"	0.0214	0.2409	0.7377
+300	20	4.6158551280164864e+17	1638412644.0	1.0	0.0	0.0	0.0			I'm immediately wary of anyone who says their favorite movie is #WolfOfWallStreet.	0.7498	0.2181	0.0321
+301	21	4.615803284955136e+17	1708738633.0	0.0	0.0	0.0	2.0	4.615665673699451e+17	retweeted	RT @Foxy_Gee: Watching #WolfOfWallStreet #Leloupdewallstreet #Dicaprio #Jouissif #Argent #Money #Sex #Dollar #ThatsLife :)	0.0154	0.6842	0.3003
+302	22	4.6157943526814106e+17	220011945.0	0.0	0.0	0.0	2.0	4.615665673699451e+17	retweeted	RT @Foxy_Gee: Watching #WolfOfWallStreet #Leloupdewallstreet #Dicaprio #Jouissif #Argent #Money #Sex #Dollar #ThatsLife :)	0.0154	0.6842	0.3003
+303	23	4.6157611903328666e+17	210983073.0	0.0	0.0	0.0	0.0			Photo: Lol #wolfofwallstreet http://t.co/XK1KYYTZqo	0.0155	0.6587	0.3259
+304	24	4.6157228629047706e+17	423128824.0	4.0	0.0	1.0	0.0			Dude just talked about marrying his cousin #donnie #wolfofwallstreet	0.3572	0.5999	0.0429
+305	25	4.615715016540447e+17	605979285.0	0.0	0.0	0.0	0.0			Holy Margot Robbie. She's Australian too😲 #wcw #wolfofwallstreet http://t.co/JCc2nsv15a	0.017	0.2862	0.6968
+306	26	4.615665673699451e+17	39731428.0	0.0	0.0	1.0	2.0			Watching #WolfOfWallStreet #Leloupdewallstreet #Dicaprio #Jouissif #Argent #Money #Sex #Dollar #ThatsLife :)	0.0156	0.5068	0.4776
+307	27	4.61557912972714e+17	590200014.0	0.0	0.0	0.0	0.0			That's my safe word baby, C'mon! #wolfofwallstreet	0.0244	0.228	0.7477
+308	0	4.7288603209906176e+17	607777645.0	0.0	0.0	0.0	0.0	4.728855585285898e+17	replied_to	@ownlifer @ccorbettauthor supply and demand #WolfOfWallStreet	0.0258	0.9109	0.0633
+309	1	4.728854101009695e+17	1356513030.0	0.0	0.0	0.0	0.0			This movie #WolfOfWallStreet is 3 hours long but it's worth watching every minute of it.	0.0102	0.0494	0.9403
+310	2	4.728838264488141e+17	244742525.0	0.0	0.0	0.0	0.0			#WolfOfWallStreet whaat New Zealand was in it?!?!	0.6132	0.3577	0.0291
+311	3	4.728811798307881e+17	2461117011.0	0.0	0.0	0.0	0.0			Giggling at #WolfOfWallStreet thought was gonna be shit but quite good and wee Donna from #neighbours is brilliant @LeoDiCaprio xx	0.0574	0.0675	0.8751
+312	4	4.728801500452618e+17	2193117590.0	0.0	0.0	0.0	3.0	4.728768811175936e+17	retweeted	RT @RICO_YBM: S/O to that nigga @TheRealTracyT all I hear in these streets is that #WolfOfWallStreet	0.6809	0.289	0.03
+313	5	4.728793588401439e+17	570927598.0	0.0	0.0	0.0	0.0			#WolfOfWallStreet longest film ever? Discuss... (I did enjoy it though-just it took 3 hours)	0.102	0.249	0.649
+314	6	4.7287909953570406e+17	33881234.0	0.0	0.0	0.0	0.0			She's so hot I would let her give me aids! #WolfOfWallStreet	0.0233	0.0469	0.9298
+315	7	4.728788398533755e+17	133128762.0	0.0	0.0	0.0	3.0	4.728768811175936e+17	retweeted	RT @RICO_YBM: S/O to that nigga @TheRealTracyT all I hear in these streets is that #WolfOfWallStreet	0.6809	0.289	0.03
+316	8	4.728786610753577e+17	56450446.0	0.0	0.0	0.0	3.0	4.728768811175936e+17	retweeted	RT @RICO_YBM: S/O to that nigga @TheRealTracyT all I hear in these streets is that #WolfOfWallStreet	0.6809	0.289	0.03
+317	9	4.7287768701117645e+17	495313049.0	0.0	0.0	0.0	0.0			That's my boy right there #wolfofwallstreet	0.0029	0.0419	0.9552
+318	10	4.728768811175936e+17	77904239.0	0.0	0.0	0.0	3.0			S/O to that nigga @TheRealTracyT all I hear in these streets is that #WolfOfWallStreet	0.6548	0.279	0.0662
+319	11	4.728746996688528e+17	335460554.0	0.0	0.0	0.0	0.0			Watching #WolfOfWallStreet #TheWolfOfWallStreet #amazing #leonardodicaprio #matthewmcconaughey #movie #movietweet #film #filmnight #DVD	0.0019	0.0536	0.9445
+320	12	4.728720139511685e+17	348471567.0	0.0	0.0	0.0	0.0			"20 minutes into ""wolf of wall street"".... funniest but most f'd more I've seen! #roflcopter #WolfOfWallStreet"	0.007	0.0469	0.9461
+321	13	4.728715213008036e+17	243613039.0	0.0	0.0	0.0	0.0			Photo: Late night working😊👍 #beers #wolfofwallstreet #movie westphal #wsphl #cph #native #pyramid... http://t.co/o8ceOXp7qr	0.0023	0.1253	0.8724
+322	14	4.728714465708933e+17	272138826.0	0.0	0.0	0.0	0.0			@JonahHill You were great in #MoneyBall but tonight I saw #WolfOfWallStreet. Holy shit, man. You got it. Great performance.	0.0074	0.0184	0.9741
+323	15	4.7287030372788224e+17	20809577.0	0.0	0.0	0.0	0.0			I love #WolfOfWallStreet	0.0037	0.0154	0.981
+324	16	4.7286509579444224e+17	302382246.0	1.0	0.0	0.0	0.0			Leonardo Dicaprio is literally saying my name right now 😍 #WolfOfWallStreet	0.0037	0.0361	0.9602
+325	17	4.728637978171146e+17	211178564.0	0.0	0.0	0.0	0.0			#wolfofwallstreet #Scorsese brilliant   #sellmethatpen and #leonardo perfect! Top tip - watch it!	0.004	0.0118	0.9842
+326	18	4.72862855079809e+17	261384029.0	1.0	0.0	0.0	0.0			I really need to watch #WolfOfWallStreet  these #fitnessmotivation #fitfam gigs have me like 😂😆😎💪	0.0122	0.1227	0.8651
+327	19	4.728577204384072e+17	391291400.0	0.0	0.0	0.0	0.0			Now time for #WolfOfWallStreet wit @Chellynch 🙌🙌	0.0017	0.0601	0.9382
+328	20	4.728575431535739e+17	917863308.0	0.0	0.0	0.0	0.0			Just finished watching #wolfofwallstreet great film and some superb performances but Jordan belfort went OTT lol	0.0049	0.0285	0.9665
+329	21	4.728532083865149e+17	251087190.0	0.0	0.0	0.0	0.0			@LeoDiCaprio #WolfOfWallStreet incredible film. A must see!!	0.0035	0.0126	0.9839
+330	22	4.7285258017624064e+17	427455762.0	0.0	0.0	0.0	0.0			Just watched #WolfOfWallStreet great film!!!! I would recommend watching it!	0.0023	0.008	0.9897
+331	23	4.728504816523182e+17	181619498.0	0.0	0.0	0.0	0.0			"If anyone is going to fuck my cousin it's going to be me... But out of respect.
+
+#WolfOfWallStreet #BestFuckingMovie"	0.4101	0.3966	0.1934
+332	24	4.728425463189668e+17	391008604.0	0.0	0.0	0.0	0.0			'Everyone just wants to get rich.' #WolfOfWallStreet	0.3636	0.5227	0.1137
+333	25	4.7284081766170624e+17	59085798.0	0.0	0.0	1.0	0.0			Sell me this pen #WolfofWallStreet	0.5001	0.438	0.0619
+334	26	4.728404697148498e+17	1356513030.0	0.0	0.0	0.0	0.0			It's only been a few minutes of watching this movie #WolfOfWallStreet and I already love it.	0.003	0.0106	0.9865
+335	27	4.72840040629162e+17	292559433.0	0.0	0.0	0.0	0.0			Cerebral palsy phase!! Haha #WolfOfWallStreet	0.0528	0.429	0.5182
+336	0	4.837550071293133e+17	608169489.0	0.0	0.0	2.0	0.0			Literally dumbest/worst movie on the planet #WolfofWallStreet	0.9441	0.0463	0.0096
+337	1	4.837497918188585e+17	38590547.0	0.0	0.0	0.0	0.0			Spotted in Shibuya. #wolfofwallstreet http://t.co/uZEh2BzJVs	0.0059	0.9283	0.0658
+338	2	4.837459157950177e+17	26514591.0	0.0	0.0	0.0	1.0	4.775747222389637e+17	retweeted	RT @JDCMovies: #WolfofWallStreet was fantastic. People called partying excessive but to me it just seemed like the reality. #biblethumpers …	0.0069	0.0321	0.961
+339	3	4.837441696773079e+17	272532046.0	0.0	0.0	0.0	1.0	4.837438518706995e+17	retweeted	RT @Ipodcrazy14: Watching #WolfofWallStreet again for 3rd time this week! Love it so much! @LeoDiCaprio #fuckme http://t.co/4sepzIKtKR	0.0284	0.0507	0.9209
+340	4	4.837438518706995e+17	182576746.0	0.0	0.0	0.0	1.0			Watching #WolfofWallStreet again for 3rd time this week! Love it so much! @LeoDiCaprio #fuckme http://t.co/4sepzIKtKR	0.0543	0.067	0.8787
+341	5	4.837427077690204e+17	751282446.0	0.0	0.0	0.0	0.0			Friends don't let friends turn down. #WolfOfWallStreet yo y mi guarra de monte https://t.co/Z0cmXRQrW7	0.0248	0.5991	0.3761
+342	6	4.837360650778173e+17	34609587.0	0.0	0.0	0.0	0.0	4.836235279127265e+17	replied_to	@tmibugbee @thedailybeast Speaking of nihilism, where were you when #WolfofWallStreet needed covering? =D Appreciate your perspective!	0.0291	0.1555	0.8155
+343	7	4.837171315365806e+17	149997975.0	1.0	0.0	0.0	0.0			#WolfofWallstreet water scene http://t.co/hLCr5aME0q	0.0201	0.9233	0.0566
+344	8	4.836900645016781e+17	287427169.0	0.0	0.0	0.0	0.0			Added 4 more blu rays to the collection #310toYuma #IngloriousBasterds #Zodiac #WolfofWallStreet http://t.co/SUu6psyplU	0.0043	0.7331	0.2626
+345	9	4.836815125133517e+17	2624868647.0	0.0	0.0	0.0	0.0			Leo's assistant in #WolfofWallStreet is such a smoke show	0.7308	0.2444	0.0248
+346	10	4.836719442070405e+17	106734827.0	3.0	0.0	1.0	0.0			Let's see what all the fuss is about then #WolfofWallStreet	0.0742	0.8163	0.1095
+347	11	4.836685323500298e+17	2572846532.0	0.0	0.0	0.0	0.0			"At Seaport:
+""Oh, I forgot, you're a new trader. You still have a soul.""
+#fragmentsofnyc #overheard #wallstreet #newyork #WolfofWallStreet"	0.0746	0.6931	0.2323
+348	12	4.83659684864213e+17	1881172092.0	0.0	0.0	0.0	0.0			"""No I am not watching #WolfOfWallStreet...I didn't touch your golferaid ....yes I did get something… http://t.co/GnOQ8BkUrj"	0.3643	0.578	0.0577
+349	13	4.836504390285558e+17	138672870.0	0.0	0.0	0.0	0.0			Whenever I watch #WolfofWallStreet , i think about #leonardodicaprio childish face for #oscars	0.4501	0.465	0.0849
+350	14	4.83646223979905e+17	173658109.0	0.0	0.0	0.0	0.0			🍋😂 love this film #wolfofwallstreet http://t.co/kuWwLq6RWV	0.0024	0.0151	0.9825
+351	15	4.836381323202478e+17	466613456.0	0.0	0.0	0.0	0.0			How could I not? #Films #Wolfofwallstreet #DallasBuyersClub http://t.co/TGuvdnzWpx	0.0095	0.3694	0.6211
+352	16	4.836188052987822e+17	88025238.0	0.0	0.0	0.0	0.0			Loving your profile pic @Kath_rynnn #peng #WolfofWallStreet 💊😂	0.0036	0.0196	0.9768
+353	17	4.8361828378279936e+17	329741748.0	0.0	0.0	1.0	0.0	4.836171806263501e+17	replied_to	@VishakanVJ LoL :D may be they can think son is at important study of life :-/ @ArunbuddyAP :P #WolfofWallStreet	0.0172	0.2577	0.725
+354	18	4.8360780548029645e+17	2595871693.0	0.0	0.0	0.0	0.0			I LOVE this quote! #WolfofWallStreet http://t.co/bLlFlRpl36	0.0034	0.0115	0.9851
+355	19	4.836008518820987e+17	2254839368.0	0.0	0.0	0.0	0.0			We went to London to see the brilliant Jordan Belfort Live, Read about it here http://t.co/tjxMjBeo6B #wolfofwallstreet	0.0017	0.1197	0.8786
+356	20	4.835868726699131e+17	1900610742.0	0.0	0.0	0.0	1.0	4.680323488489431e+17	retweeted	RT @hmvmanchester: Out on Monday: The Wolf Of Wall Street DVD £9.99 BLU-RAY / #HMV exclusive  £14.99 STEELBOOK £24.99 #WolfOfWallStreet htt…	0.0063	0.9304	0.0633
+357	21	4.835819811216097e+17	393417549.0	0.0	0.0	0.0	0.0			"""Its a custom in Sweden to chat and socialize for 15 minutes... And then its straight to business."" #wordstoliveby #WolfofWallStreet"	0.0251	0.9138	0.0611
+358	22	4.8357787975499776e+17	967798609.0	0.0	0.0	0.0	0.0			@wolfofwallst love #WolfofWallStreet need a shot of ammunition for your life? This film is for you! It's a grab life by the balls sorta film	0.0063	0.0421	0.9516
+359	23	4.835706456287478e+17	2254839368.0	0.0	0.0	0.0	0.0			"We Traveled to London to experience Jordan Belfort Live! 
+http://t.co/tjxMjBeo6B #JordanBelfort #WolfofWallStreet #London #live"	0.0029	0.4345	0.5625
+360	24	4.835567393765089e+17	89503697.0	0.0	0.0	0.0	0.0			Re watching The Wolf of Wall Street #favourite #wolfofwallstreet #jordanbelfort http://t.co/z7NL0XrMQT	0.0039	0.2316	0.7645
+361	25	4.8355354281773466e+17	2541611719.0	0.0	0.0	0.0	1.0	4.835303909391114e+17	retweeted	RT @MajComm_Hamish: Good luck Alex on your first day in wine broking. #wolfofwallstreet #winebroking http://t.co/7GQIyjmn0a	0.0018	0.0326	0.9656
+362	26	4.835303909391114e+17	1409927767.0	0.0	0.0	0.0	1.0			Good luck Alex on your first day in wine broking. #wolfofwallstreet #winebroking http://t.co/7GQIyjmn0a	0.002	0.031	0.9671
+363	27	4.834893576688108e+17	1493235554.0	0.0	0.0	0.0	0.0			One of the reasons why I love her. #TFIOS #GraceOfMonaco #WolfOfWallstreet #greatgatsby @LeoDiCaprio @Sasha_Mellany http://t.co/PgqFb0ErwP	0.0025	0.0199	0.9776
+364	0	4.949873042811945e+17	335898400.0	0.0	0.0	0.0	0.0			"Tonights viewing🎬👌
+#cantsleep #classfilm #wolfofwallstreet #leonardodicaprio http://t.co/IlKUjIUf92"	0.005	0.3904	0.6046
+365	1	4.9498146262695526e+17	18618509.0	0.0	0.0	0.0	0.0			A Business of Your Own http://t.co/UDiCSzuCnj   http://t.co/NVCf5FxUR5  http://t.co/kCKE3PaNtO #Kesha #BradPaisley #USA #wolfofwallstreet	0.0073	0.8805	0.1122
+366	2	4.9497085877632205e+17	30850110.0	0.0	0.0	0.0	0.0			Meeting the Wolf of Wallstreet - LIVE! - Meeting the Wolf of Wallstreet - LIVE! #WolfOfWallstreet... http://t.co/i3MTC7UBGE	0.0031	0.7281	0.2688
+367	3	4.949708414702346e+17	176877750.0	0.0	0.0	0.0	0.0			Meeting the Wolf of Wallstreet - LIVE! #WolfOfWallstreet #JordanBelford #RWS #Singapore http://t.co/PEyLxC5t3o	0.0028	0.8324	0.1648
+368	4	4.949707991626711e+17	176877750.0	0.0	0.0	0.0	0.0			Meeting the Wolf of Wallstreet - LIVE! #WolfOfWallstreet #JordanBelford #RWS #Singapore http://t.co/t2UxOBmqkx	0.0028	0.8324	0.1648
+369	5	4.949659946880983e+17	48166462.0	0.0	0.0	0.0	0.0			😂😂😂😂😂😂😭😂😂😂😂 #idgaf #wolfofwallstreet thanks for thinking of me though 👍 http://t.co/Dn1YwzI7gb	0.1225	0.2973	0.5802
+370	6	4.949644993222738e+17	1086963024.0	0.0	0.0	0.0	0.0			Ready to be #successful? Here are a few #lessons from Jordan Belfort about obtaining #success. http://t.co/EYXhSz6rvS  #WolfOfWallStreet	0.0073	0.431	0.5618
+371	7	4.94951055642624e+17	19325178.0	0.0	0.0	0.0	0.0			It's true! Lol. #wolfofwallstreet http://t.co/H8ENJTrgvg	0.0116	0.2225	0.7659
+372	8	4.949477559916462e+17	251464818.0	0.0	0.0	0.0	0.0			#Sharknado2 verdict: not as great as #Sharknado but far smarter, better written and acted than somehow Oscar-nominated #WolfOfWallStreet	0.3692	0.3186	0.3122
+373	9	4.949449670399099e+17	537209411.0	0.0	0.0	0.0	10.0	4.94500859968254e+17	retweeted	"RT @MELYTONIOLO: Thanks @CotrilSpa 
+#wolfofwallstreet http://t.co/AuU3lZl8XW"	0.0031	0.1391	0.8578
+374	10	4.949418116188816e+17	269276461.0	1.0	0.0	0.0	0.0			"""Deal with your problems by becoming rich!"" #wolfofwallstreet #leo"	0.0823	0.493	0.4247
+375	11	4.949345634924872e+17	78270720.0	0.0	0.0	0.0	0.0			Gotta find a film to watch tonight! #wolfofwallstreet havnt seen it in a week  👌	0.0187	0.1943	0.7871
+376	12	4.949290294816604e+17	262885377.0	2.0	0.0	0.0	0.0			Who ever is sitting by me on this flight is in for a treat #WolfOfWallStreet	0.034	0.3601	0.6059
+377	13	4.9487792369934746e+17	2185294140.0	1.0	0.0	0.0	0.0			Wak a flaka Wolf. #wolfofwallstreet  https://t.co/9Ns3qZw2lO	0.0307	0.885	0.0843
+378	14	4.9487026834375885e+17	2450720418.0	0.0	0.0	0.0	1.0	4.948698573774725e+17	retweeted	RT @itsyaboiiceej: Stocks are grinding today. That's never good for the bank account #sorrywallet #wolfofwallstreet	0.9145	0.0766	0.0089
+379	15	4.948698573774725e+17	312635915.0	8.0	0.0	0.0	1.0			Stocks are grinding today. That's never good for the bank account #sorrywallet #wolfofwallstreet	0.9098	0.0788	0.0115
+380	16	4.948620790948332e+17	543133092.0	1.0	0.0	0.0	0.0			I do not recall. #wolfofwallstreet	0.102	0.8561	0.0419
+381	17	4.948574965454643e+17	620611977.0	0.0	0.0	0.0	0.0	4.9485721967067546e+17	replied_to	@stephtantilloTV Lamborghini… That is all #wolfofwallstreet	0.0506	0.7941	0.1553
+382	18	4.948564579183616e+17	1566270036.0	0.0	0.0	0.0	0.0			@dimitrivegas @likemike  love how you did that #WolfOfWallStreet move at #Tomorrowland ! #edm	0.0042	0.0332	0.9626
+383	19	4.9482931872884326e+17	544407576.0	0.0	0.0	0.0	0.0			#WolfOFWallStreet, #CaptainAmericaTheWinterSoldier, #TheRaid2 #RiseOfThePlanetOfTheApes #GuardiansOfTheGalaxy. best films this year so far	0.0025	0.04	0.9576
+384	20	4.9482194513402266e+17	55177675.0	0.0	0.0	0.0	72.0	4.9448877419831296e+17	retweeted	RT @wolfofwallst: The best revenge is massive success. –Frank Sinatra #WorldTour #jordanbelfort #wolfofwallstreet	0.0156	0.3159	0.6685
+385	21	4.9482083279622144e+17	555954497.0	0.0	0.0	0.0	476.0	4.252256263591895e+17	retweeted	"RT @MarioGoetze: #wolfofwallstreet Amazing movie!
+@LeoDiCaprio http://t.co/S19Qb2Eyxo"	0.0028	0.0244	0.9728
+386	22	4.9481406365056205e+17	139179645.0	0.0	0.0	0.0	72.0	4.9448877419831296e+17	retweeted	RT @wolfofwallst: The best revenge is massive success. –Frank Sinatra #WorldTour #jordanbelfort #wolfofwallstreet	0.0156	0.3159	0.6685
+387	23	4.948117161531146e+17	36271656.0	0.0	0.0	0.0	0.0			Steeeeevvvveee Maaaaadddddeeen! #wolfofwallstreet	0.01	0.2999	0.6901
+388	24	4.9480957249048576e+17	40439713.0	0.0	0.0	0.0	1.0	4.948081268439368e+17	retweeted	RT @ThinkYachtsAsia: Live like the Wolf of Wall Street with Lacy P ON SALE! http://t.co/WLWqiskRye  #WolfOfWallStreet #yacht #boating http:…	0.0037	0.7959	0.2004
+389	25	4.948081268439368e+17	1327220100.0	0.0	0.0	0.0	1.0			Live like the Wolf of Wall Street with Lacy P ON SALE! http://t.co/WLWqiskRye  #WolfOfWallStreet #yacht #boating http://t.co/ialHBZl0Om	0.0029	0.428	0.5691
+390	26	4.947698713357394e+17	208603048.0	0.0	0.0	1.0	2.0			Still don't know how @LeoDiCaprio didnt win an Oscar for his performance in #WolfOfWallStreet	0.5552	0.382	0.0628
+391	27	4.947653009616528e+17	388494981.0	0.0	0.0	0.0	0.0			Wolf of Wall Street was fucking amazing! #wolfofwallstreet	0.005	0.0132	0.9818
+392	0	5.0622994843713126e+17	2202251342.0	1.0	0.0	0.0	0.0			Probably wouldn't have been a better movie, but certainly more 80's-ish. #movie #film #WolfOfWallStreet http://t.co/mDROorGwE9	0.1664	0.5033	0.3303
+393	1	5.06218104649941e+17	107837123.0	2.0	0.0	1.0	0.0			"Bout to watch #WolfOfWallStreet tn
+
+Because #America"	0.0348	0.5398	0.4253
+394	2	5.062176426218209e+17	168302112.0	1.0	0.0	0.0	0.0			337 #WolfOfWallStreet -Shocking,entertains, and nothing less than what's expected from old school #Goodfellas Scorsese.  ★★★	0.1623	0.3378	0.4999
+395	3	5.0619323777078886e+17	271579079.0	0.0	0.0	0.0	0.0			.@MargotRobbie looking incredible in #WolfOfWallStreet 😍😍😍	0.0049	0.0155	0.9796
+396	4	5.0618802893173965e+17	18618509.0	0.0	0.0	0.0	0.0			100%CommissionSystem! http://t.co/NVCf5FfLCX #wolfofwallstreet #success #RisingStar #FinancialSecurity #Networkmarketing #KeepTheFaith	0.0047	0.0791	0.9162
+397	5	5.061747357017744e+17	271579079.0	1.0	0.0	0.0	0.0			Time to see what they hype is about #WolfOfWallStreet 🎬👌	0.0064	0.2755	0.7181
+398	6	5.061507572932321e+17	300692706.0	0.0	0.0	0.0	0.0			Sunday dinner complete.... #WolfOfWallStreet #CasualSunday #Britain meets #Russia http://t.co/MkCzygRa4I	0.0064	0.7037	0.2899
+399	7	5.061310044244664e+17	1085134002.0	0.0	0.0	0.0	0.0			Oh god this might b my fav #leodicaprio role ever! #wolfofwallstreet #somuchofgood	0.0033	0.0077	0.989
+400	8	5.061098507584225e+17	1085134002.0	0.0	0.0	0.0	0.0			Gonna start watching #wolfofwallstreet... any good? #ohgoditsleo #gottab	0.0322	0.6081	0.3597
+401	9	5.060738645654323e+17	22924613.0	1.0	0.0	0.0	0.0			Watching #wolfofwallstreet #lazySunday	0.1022	0.7407	0.1572
+402	10	5.060729127810048e+17	2298871525.0	0.0	0.0	0.0	0.0			coolest man ever in this movie, #leonardodicaprio #wolfofwallstreet	0.0031	0.0136	0.9833
+403	11	5.059749338059981e+17	172739893.0	0.0	0.0	0.0	0.0			Have kept #WolfOfWallStreet on my phone! For that fucking attitude of Jordan!! #love	0.6308	0.1897	0.1795
+404	12	5.059677901890601e+17	385597073.0	1.0	0.0	0.0	0.0			That crazy s.o.b. thought jujitsu was in Israel. Lol #WolfOfWallStreet	0.6192	0.3288	0.052
+405	13	5.059522562994012e+17	209516423.0	0.0	0.0	0.0	0.0			"""I have never been a fan of the bush to be honest."" :-P #wolfofwallstreet"	0.7113	0.2667	0.022
+406	14	5.059459102079795e+17	786290209.0	4.0	0.0	0.0	0.0			It's been a good relaxing movie night! #wolfofwallstreet #badgrandpa	0.0036	0.0233	0.9731
+407	15	5.059273117920133e+17	113155863.0	0.0	0.0	0.0	7.0	4.927302091419361e+17	retweeted	RT @wolfofwallst: Jordan Belfort live Tawain #WolfofWallstreet #WorldTour #JodanBelfort http://t.co/jzlM5HnARK	0.0061	0.9461	0.0479
+408	16	5.059163370890363e+17	86570439.0	0.0	0.0	0.0	0.0			favorite fucking movie #wolfofwallstreet http://t.co/Ci7q2fW1md	0.0973	0.1199	0.7828
+409	17	5.0590286261099725e+17	937298694.0	0.0	0.0	0.0	0.0			Now it's a toss up between gang wars or some kinda soft-porn. Neither are doing it for me right now. I wanna read the #WolfOfWallStreet.	0.8589	0.1252	0.0159
+410	18	5.0590187770874266e+17	396004646.0	2.0	0.0	0.0	0.0			You can't look them in the eyes! It's a fact, I saw it on PBS #wolfofwallstreet	0.1222	0.6351	0.2427
+411	19	5.058564520664392e+17	109919139.0	0.0	0.0	0.0	0.0			@LeoDiCaprio I saw you @Budweiser #MadeInAmerica #musicfest love the face #wolfofwallstreet http://t.co/0ys2ZwLRAG	0.0023	0.0379	0.9598
+412	20	5.058456481772667e+17	414329457.0	0.0	0.0	0.0	0.0			A bit of bromance on a Saturday night beats alcohol any day #Indian #wolfofwallstreet #bromance http://t.co/UJUsWGFPFj	0.0072	0.1853	0.8075
+413	21	5.058381277817979e+17	35881371.0	0.0	0.0	0.0	0.0			@LeoDiCaprio is reminding me of @ElliottcMorgan for some reason right now #wolfofwallstreet	0.1146	0.7531	0.1323
+414	22	5.05810740604072e+17	400175094.0	1.0	0.0	0.0	0.0			Spending my night with Leo and Jonah #wolfofwallstreet	0.0051	0.4129	0.5819
+415	23	5.0579956425149645e+17	2646947612.0	0.0	0.0	0.0	0.0			Can't believe i haven't watched #wolfofwallstreet until now! Awesome performance #leonardodicaprio	0.0049	0.0184	0.9767
+416	24	5.0578464230240666e+17	256830365.0	1.0	0.0	0.0	0.0			"""Former member of the middle class"" #wolfofwallstreet #LDW2014"	0.1025	0.8479	0.0496
+417	25	5.057834840159724e+17	19304473.0	0.0	0.0	0.0	0.0			Sweet lipstick, bro! #nyc #subway #ftrain #graffiti #poster #wolfofwallstreet #kidstoday #lipstick #dicaprio http://t.co/HEUfMUuHtr	0.0034	0.0522	0.9444
+418	26	5.057513374188831e+17	84236629.0	0.0	0.0	0.0	0.0			Great movie #wolfofwallstreet http://t.co/GvCgse2xYN	0.0023	0.0147	0.983
+419	27	5.057254290307277e+17	229907339.0	0.0	0.0	0.0	0.0			Watching #WOLFOFWALLSTREET again for the 3rd time. never get tired of this classic.	0.0027	0.0179	0.9794
+420	0	5.1709941937709466e+17	895984104.0	0.0	0.0	2.0	2.0			#GrabHerHand prod @SmackTUF ft @ThaRealSEMI x @CASKET_MGB x @AntDeLaVega #wolfofwallstreet #turnup #rap #rare #art http://t.co/kkg0g9WUiy	0.004	0.8417	0.1543
+421	1	5.170859073802363e+17	56350423.0	0.0	0.0	0.0	0.0			"""..what kind of hooker takes credit cards?"", ""a rich one""..
+
+#WolfOfWallStreet"	0.3446	0.6037	0.0517
+422	2	5.170853531620639e+17	801196471.0	0.0	0.0	0.0	0.0			Interview with 'The Wolf of Wall Street' #JordanBelfort http://t.co/PEIuRAdQrM via @alexbonvivant #wolfofwallstreet	0.005	0.9498	0.0452
+423	3	5.17083314650624e+17	473884447.0	0.0	0.0	0.0	0.0			truly good writing and acting when you start to feel sorry for the villain and make excuses for all the shit they did #wolfofwallstreet	0.3629	0.3138	0.3233
+424	4	5.170821657506652e+17	567270829.0	0.0	0.0	0.0	0.0			No caption needed 😩 #Monday #wolfofwallstreet #lemons #flyhome #holidayover http://t.co/UZnzwkrYs4	0.0852	0.4923	0.4225
+425	5	5.170658894146683e+17	2435104896.0	0.0	0.0	0.0	0.0			Me and #shitbird channeling some #wolfofwallstreet on our 36th hole. #golflife #adventureswithshitbird http://t.co/lEOo1tIw6L	0.0119	0.7436	0.2445
+426	6	5.170539458236498e+17	751709527.0	0.0	0.0	0.0	0.0			@LeoDiCaprio just never loses it, what a man, what a voice #wolfofwallstreet	0.0074	0.0277	0.965
+427	7	5.1702691611805286e+17	76573600.0	0.0	0.0	0.0	0.0			Time to get some sales!!!! #Wolfofwallstreet #sales #justdoit	0.0126	0.2622	0.7252
+428	8	5.1701965510672384e+17	237105651.0	1.0	0.0	0.0	0.0			The #WolfofWallStreet speaks out. Win 2 tickets to the event on our Instagram page at EventbriteLA! http://t.co/LP34oTrMtq #tickettuesday	0.004	0.5223	0.4737
+429	9	5.169999954182349e+17	365856068.0	0.0	0.0	0.0	1.0	5.169925015727104e+17	retweeted	RT @TheLeviLake: Some people are okay with being average. Those people are losers. #WolfOfWallStreet	0.9133	0.0774	0.0093
+430	10	5.169961730189599e+17	462508663.0	0.0	0.0	0.0	0.0			The highlight of my day has to be getting called a mini Jordan Belfort. #ByChance #WolfOfWallStreet	0.0056	0.0468	0.9476
+431	11	5.169925015727104e+17	629508997.0	1.0	0.0	0.0	1.0			Some people are okay with being average. Those people are losers. #WolfOfWallStreet	0.9166	0.0721	0.0113
+432	12	5.1697845187065856e+17	2376059671.0	0.0	0.0	0.0	0.0			Excited for #PTA's #InherentVice. Hope it doesn't fall into the unfocused story, out-of-control acting of #AmericanHustle/#WolfofWallStreet.	0.0127	0.0671	0.9202
+433	13	5.16952617680126e+17	763053206.0	0.0	0.0	0.0	0.0			Jordan Belford #wolfofwallstreet or Carlton banks #FreshPrinceOfBelAir #decadeday#hocowk#day2 http://t.co/1cbDJ6FgpV	0.0074	0.9346	0.058
+434	14	5.1693354054270566e+17	263256889.0	1.0	0.0	0.0	0.0			Give me some lemons #wolfofwallstreet #somefilm	0.0897	0.721	0.1893
+435	15	5.1682436393363046e+17	48131518.0	2.0	0.0	0.0	0.0			Gonna watch #WolfOfWallStreet while i study/do homework.. lets see how long i go until i pop a quaalude	0.0448	0.747	0.2082
+436	16	5.1681269045540045e+17	2769211068.0	0.0	0.0	0.0	0.0			I feel like me and @LeoDiCaprio  would be homies in the turn up.  I'd let that nigga blow Vicks in my eyes. #nohomo #WolfofWallstreet	0.0562	0.187	0.7569
+437	17	5.1681246782633984e+17	1126331382.0	0.0	0.0	0.0	0.0			New #quote : Effing put in work , to dust your dreams into reality  #wolfofwallstreet by r_syed http://t.co/Bql5Dwo46E	0.0296	0.602	0.3684
+438	18	5.168015867070628e+17	603077991.0	2.0	0.0	0.0	0.0			#WolfOfWallStreet is still that movie 💵💵💵💵💵💵💵💵💵	0.0528	0.2696	0.6776
+439	19	5.167970736401449e+17	865625318.0	0.0	0.0	0.0	0.0			I love leo so much #wolfofwallstreet	0.0029	0.013	0.9841
+440	20	5.1678312020116685e+17	16816250.0	0.0	0.0	0.0	1.0	5.167530283390853e+17	retweeted	RT @CarrieShubert: Unlike #wolfofwallstreet my ex got away w/millions #strongwomen #scandal  #Livinglifepurposefully IN THE WAKE OF LIES ht…	0.5332	0.4136	0.0532
+441	21	5.167685343668142e+17	1429623768.0	0.0	0.0	0.0	0.0			matthew mcconaughey in #WolfOfWallStreet is fucking priceless for as small a role he played.	0.0227	0.0649	0.9123
+442	22	5.16757428830892e+17	76243927.0	0.0	0.0	0.0	2.0	5.167100514832425e+17	retweeted	RT @joiecalio: #7Horse thank u #KennyWayneShepherd #WhiskyMyers #7HorseFans #TheJudge #WolfofWallStreet #MethLabZosoSticker #KeithRichards …	0.0111	0.4045	0.5844
+443	23	5.167530283390853e+17	1538896098.0	0.0	0.0	0.0	1.0			Unlike #wolfofwallstreet my ex got away w/millions #strongwomen #scandal  #Livinglifepurposefully IN THE WAKE OF LIES http://t.co/QSjqBosWPQ	0.5611	0.3736	0.0653
+444	24	5.167472311440671e+17	464068335.0	0.0	0.0	0.0	0.0			I like the Indian cheer the Chiefs do before their game. Ideas?? #wolfofwallstreet	0.0089	0.1926	0.7985
+445	25	5.167152451808174e+17	2716500614.0	0.0	0.0	0.0	2.0	5.167100514832425e+17	retweeted	RT @joiecalio: #7Horse thank u #KennyWayneShepherd #WhiskyMyers #7HorseFans #TheJudge #WolfofWallStreet #MethLabZosoSticker #KeithRichards …	0.0111	0.4045	0.5844
+446	26	5.167100514832425e+17	19687928.0	2.0	0.0	0.0	2.0			#7Horse thank u #KennyWayneShepherd #WhiskyMyers #7HorseFans #TheJudge #WolfofWallStreet #MethLabZosoSticker #KeithRichards #RedWine #RxMJ	0.0094	0.2137	0.7769
+447	27	5.167077246175888e+17	346309868.0	0.0	0.0	0.0	1.0	5.162987857951048e+17	retweeted	RT @TatumN4: ON NEW ISSUE DAY, THIS IS WHAT YOU DO ON NEW ISSUE DAY!  #wolfofwallstreet	0.0067	0.733	0.2603
+448	0	5.283274301390397e+17	35989932.0	2.0	0.0	0.0	1.0			It's Halloween here @richdaleapts #RedRidingHood #WolfOfWallStreet #RichdaleInDisguise @halltbone http://t.co/u9sQxL7YT6	0.0049	0.558	0.4371
+449	1	5.283269024616407e+17	518014491.0	0.0	0.0	0.0	0.0			Leo wearing a gold Rolex in Wolf of Wall Street #fbf #wolfofwallstreet #rolex #goldrolex… http://t.co/QXkbeCNqtr	0.0044	0.8891	0.1065
+450	2	5.283230588354192e+17	257517997.0	0.0	0.0	0.0	4.0	4.200131832023777e+17	retweeted	RT @illscarlett: If @LeoDiCaprio doesn't win an #Oscar for #WolfOfWallStreet.. Then there is something tragically messed w/ The Academy..	0.847	0.1425	0.0104
+451	3	5.283229081885942e+17	257517997.0	0.0	0.0	0.0	836.0	4.2600391174536806e+17	retweeted	RT @markmahon: Saw #WolfofWallStreet and Leonardo @LeoDiCaprio was outstanding. He could be difficult to beat at this year's 86th #Oscars @…	0.0044	0.0381	0.9575
+452	4	5.283227464058962e+17	257517997.0	0.0	0.0	0.0	7.0	4.384993219152691e+17	retweeted	RT @firstpostin: Will the Academy finally give Leonardo DiCaprio his Oscar this year? http://t.co/pFOuxRLEV6 #WolfOfWallStreet	0.0033	0.7234	0.2733
+453	5	5.283204522348462e+17	1045136112.0	0.0	0.0	0.0	1.0	5.282448625930076e+17	retweeted	RT @LongPennyStocks: @UnitedForCare @DrugPolicyNews #wolfofwallstreet #wolfpack Vote YES on Amendment 2!!! Florida needs it!	0.016	0.2929	0.691
+454	6	5.2829804594833e+17	394403854.0	1.0	0.0	0.0	0.0			What other shoes would the girlfriend of the #wolfofwallstreet buy? #ShteeeeeeveMaaaaadddden http://t.co/DL8RtHB1e4	0.019	0.9051	0.0759
+455	7	5.2829581577394586e+17	81533317.0	0.0	0.0	0.0	1.0	5.282868834667315e+17	retweeted	RT @samjones001: Bermuda grass! Oh my god you had to deal with the golf course people too! #wolfofwallstreet	0.537	0.346	0.117
+456	8	5.282957506070651e+17	1692803184.0	0.0	0.0	0.0	0.0			Newest Purchase... #WolfOfWallStreet http://t.co/VlRTkK9XUD	0.0092	0.7166	0.2742
+457	9	5.282868834667315e+17	116424319.0	3.0	0.0	1.0	1.0			Bermuda grass! Oh my god you had to deal with the golf course people too! #wolfofwallstreet	0.6247	0.273	0.1023
+458	10	5.282781700182712e+17	167465517.0	0.0	0.0	0.0	0.0			#WolfOfWallStreet is a good ass movie...took me 2 days to watch the whole thing tho lol	0.0053	0.021	0.9737
+459	11	5.2826526991201485e+17	2777814352.0	0.0	0.0	0.0	7.0	5.28258045202006e+17	retweeted	RT @theviewtv: Your hosts picked their favorite costumes from our studio audience! #WhoopiCushion #WolfOfWallStreet #EnchantedView http://t…	0.0038	0.4369	0.5593
+460	12	5.282633843248988e+17	15038519.0	0.0	0.0	0.0	7.0	5.28258045202006e+17	retweeted	RT @theviewtv: Your hosts picked their favorite costumes from our studio audience! #WhoopiCushion #WolfOfWallStreet #EnchantedView http://t…	0.0038	0.4369	0.5593
+461	13	5.282615608806113e+17	2762553543.0	0.0	0.0	0.0	7.0	5.28258045202006e+17	retweeted	RT @theviewtv: Your hosts picked their favorite costumes from our studio audience! #WhoopiCushion #WolfOfWallStreet #EnchantedView http://t…	0.0038	0.4369	0.5593
+462	14	5.28258179658838e+17	15876810.0	0.0	0.0	0.0	7.0	5.28258045202006e+17	retweeted	RT @theviewtv: Your hosts picked their favorite costumes from our studio audience! #WhoopiCushion #WolfOfWallStreet #EnchantedView http://t…	0.0038	0.4369	0.5593
+463	15	5.282581007056445e+17	44143252.0	0.0	0.0	0.0	7.0	5.28258045202006e+17	retweeted	RT @theviewtv: Your hosts picked their favorite costumes from our studio audience! #WhoopiCushion #WolfOfWallStreet #EnchantedView http://t…	0.0038	0.4369	0.5593
+464	16	5.28258045202006e+17	21258337.0	35.0	0.0	4.0	7.0			Your hosts picked their favorite costumes from our studio audience! #WhoopiCushion #WolfOfWallStreet #EnchantedView http://t.co/TfUnPfpgrJ	0.0034	0.3138	0.6829
+465	17	5.282502570174341e+17	2385147290.0	0.0	0.0	0.0	2.0	5.276329264316703e+17	retweeted	RT @RoadshowFilms: .@Vita_Britt Then you'll love this... http://t.co/BnAadWNoW6 #WolfOfWallStreet	0.0018	0.0453	0.9529
+466	18	5.282448625930076e+17	2415253825.0	0.0	0.0	0.0	1.0	5.282130631622779e+17	replied_to	@UnitedForCare @DrugPolicyNews #wolfofwallstreet #wolfpack Vote YES on Amendment 2!!! Florida needs it!	0.0118	0.188	0.8002
+467	19	5.282078817460183e+17	1120916971.0	0.0	0.0	0.0	0.0			After yesterday, it's only right if I'm Jordan Belfort for Halloween #wolfofwallstreet	0.0377	0.5057	0.4567
+468	20	5.282005219080929e+17	330577035.0	0.0	0.0	1.0	0.0			You can't see my tie, but I'm the wolf of Wall Street! #happyhalloween #wolfofwallstreet… http://t.co/z3Gj5aTNtH	0.0065	0.1433	0.8501
+469	21	5.281754435818701e+17	83431030.0	0.0	0.0	0.0	0.0			#JordanBelfort #WolfOfWallStreet @leonardodicaprio RT RP that one buddy! #HappyHalloween 😱 http://t.co/pvTTw3EuAm	0.022	0.2571	0.7209
+470	22	5.281381262002954e+17	1007994704.0	0.0	0.0	0.0	5.0	5.203518407861985e+17	retweeted	RT @warrenpsonoda: The 1 and only time I'll beat #MartinScorsese at anything: @SWEARNET dethrones #WolfOfWallStreet for @GWR record! http:/…	0.0032	0.1263	0.8705
+471	23	5.2808317043317146e+17	2161263737.0	0.0	0.0	0.0	2.0	5.280824211749069e+17	retweeted	"RT @MySocialMouth: The only thing standing b/w you and your goal is the bullshit story you keep telling yourself 
+
+#WolfofWallstreet http:/…"	0.8173	0.169	0.0136
+472	24	5.280826491772723e+17	1098647598.0	0.0	0.0	0.0	2.0	5.280824211749069e+17	retweeted	"RT @MySocialMouth: The only thing standing b/w you and your goal is the bullshit story you keep telling yourself 
+
+#WolfofWallstreet http:/…"	0.8173	0.169	0.0136
+473	25	5.280631622902948e+17	218698595.0	0.0	0.0	0.0	16.0	4.200109344392765e+17	retweeted	RT @CatherinePaiz: One of the funniest scenes I've seen in a long time. Best movie #wolfofwallstreet http://t.co/bJLrf99FG3	0.0023	0.0112	0.9865
+474	26	5.280521337156567e+17	498258631.0	1.0	0.0	0.0	1.0			New found inspiration to be rich someday #wolfofwallstreet #millionaire	0.0045	0.0705	0.925
+475	27	5.280251351657677e+17	293865084.0	3.0	0.0	0.0	0.0			Cannot get enough of Jordan Belfort #WolfOfWallStreet	0.0512	0.1684	0.7804
+476	0	5.392059625993912e+17	380629461.0	0.0	0.0	0.0	1.0	5.389731667740221e+17	retweeted	"RT @MomCoApp: ""Sell me this pen."" I'll give u a hint; it's got nothing to do with the pen. #wolfofwallstreet #marketing #tech #entrepreneur…"	0.3442	0.5752	0.0806
+477	1	5.391902203828101e+17	27204202.0	0.0	0.0	0.0	0.0			Nothing quite like a dominos and wolf of wall street all snuggled in bed #thisisthelife #funtimes #wolfofwallstreet	0.0059	0.0916	0.9024
+478	2	5.39186197986177e+17	566936288.0	0.0	0.0	0.0	30.0	5.363510130712371e+17	retweeted	RT @sxualgifs: Favourite part.. #wolfofwallstreet http://t.co/tFG3O0vWUy	0.003	0.0685	0.9285
+479	3	5.3918076879138e+17	448297580.0	0.0	0.0	0.0	0.0			"http://t.co/ms7ers3U3c
+
+Brilliant.  
+
+#wolfofwallstreet"	0.0252	0.8584	0.1164
+480	4	5.39171888984236e+17	23620016.0	2.0	0.0	0.0	0.0			Editing over #WolfofWallStreet  | #RHPhotography x @Revel317 x @DJBuckRodgers	0.0059	0.9437	0.0504
+481	5	5.3916801253297766e+17	192207409.0	0.0	0.0	0.0	0.0			Love this film! #WolfOfWallStreet http://t.co/fog3PVUVdK	0.0027	0.0117	0.9855
+482	6	5.3915643665659085e+17	1101673988.0	1.0	0.0	1.0	0.0	5.388470300731105e+17	replied_to	“@BlackPplVines: When the drugs kick in outta nowhere LMAO 😂 http://t.co/9JP2cMBjYt” @Tyler_Persinger is he on the lemons? #wolfofwallstreet	0.2995	0.6119	0.0887
+483	7	5.391470049210204e+17	1514891502.0	0.0	0.0	0.0	0.0			The Real 'Wolf of Wall Street'? http://t.co/yPMjq3vUwA #wolfofwallstreet #wallstreet #vice	0.1164	0.8584	0.0253
+484	8	5.391433738319504e+17	452217843.0	0.0	0.0	0.0	0.0			#Wolf󾇐ofwallstreet  Sankar Raj this ones for you. Iam glad that we went to watch this epic tale of #jordanbelfort... http://t.co/rwXcshxNgk	0.0019	0.0302	0.968
+485	9	5.3914093255448576e+17	452217843.0	0.0	0.0	0.0	0.0			#Wolf󾇐ofWallstreet# Sankar Raj this ones for you....Iam glad that we went together to watch this epic tale of... http://t.co/A62Elbe3RE	0.0015	0.0209	0.9777
+486	10	5.391300879759647e+17	79747741.0	1.0	0.0	0.0	0.0			@MargotRobbie you need one if our #ChristmasSweaters DM us #WolfofWallstreet 🎅🎄 http://t.co/NB4ognwDV0	0.0043	0.6534	0.3423
+487	11	5.3912822712684544e+17	2790166614.0	0.0	0.0	0.0	0.0			If @nfl teams were publicly traded stocks, the @Jaguars would be Aerotyne International #WolfofWallstreet	0.0437	0.8788	0.0776
+488	12	5.391134655880929e+17	348898843.0	0.0	0.0	0.0	0.0			Netflix is going ham next month!  #anchorman2 #hauntedhouse2 #wolfofwallstreet @netflix	0.0082	0.2207	0.771
+489	13	5.391088654520279e+17	2881808620.0	0.0	0.0	0.0	0.0			"List of what's coming to &amp; leaving #Netflix in December. #AnchorMan2 #AmericanHorrorStoryFreakShow #WolfOfWallStreet
+
+http://t.co/X5n3MLSQYB"	0.0408	0.911	0.0482
+490	14	5.390965140865802e+17	325030134.0	0.0	0.0	1.0	0.0			bought these awesome movies for 16$ I saved 26$ eeeeks. #WolfOfWallStreet $4 #Ted $6 &amp; #TheHeat $6… http://t.co/ystyM51LKR	0.0034	0.0473	0.9494
+491	15	5.390809568719708e+17	273968758.0	0.0	0.0	0.0	0.0			We're not gonna be friends #WolfofWallstreet	0.8147	0.171	0.0144
+492	16	5.3908040623917466e+17	898611002.0	1.0	0.0	0.0	0.0			I made $49 million which really pissed me off cause it was 3 shy of a million a week😂 #wolfofwallstreet	0.9072	0.0832	0.0096
+493	17	5.3905443779352986e+17	45158300.0	0.0	0.0	0.0	0.0			Finally watched #WolfofWallstreet last night, Jay loved it. But seriously Martin Scorsese? Another 3 hour movie?! #aintnobodygottimeforthat	0.0553	0.1696	0.775
+494	18	5.390357994642145e+17	840396516.0	0.0	0.0	0.0	0.0			£30 big ones for this in HMV. Bit optimistic i think. #Overpriced #HMV #WolfofWallstreet #Steelbook http://t.co/VQ6p3STKHU	0.1366	0.5608	0.3026
+495	19	5.389774690393825e+17	37756638.0	0.0	0.0	0.0	0.0			It’s funny that the real Jordan Belfort was actually in the movie. #WolfOfWallStreet	0.0159	0.3795	0.6045
+496	20	5.389731667740221e+17	2462631013.0	2.0	0.0	0.0	1.0			"""Sell me this pen."" I'll give u a hint; it's got nothing to do with the pen. #wolfofwallstreet #marketing #tech #entrepreneur #shark"	0.3244	0.5656	0.11
+497	21	5.389704249826345e+17	226767148.0	0.0	0.0	0.0	0.0			LOL this movie has forever impacted the way I look at Steve Madden.....and Matthew Mcconaughey #WolfofWallstreet	0.0137	0.1615	0.8248
+498	22	5.389657047716536e+17	37756638.0	1.0	0.0	0.0	0.0			The Lemmon 714 scene. 😭😭😭😭😭😭 #WolfOfWallStreet	0.3181	0.2705	0.4114
+499	23	5.389644984894136e+17	202932616.0	2.0	0.0	0.0	0.0			when the Lemmon Quaaludes kicked in must be one of my fav movie scenes #wtfareyousaying #wolfofwallstreet😂😂😂	0.0226	0.1692	0.8082
+500	24	5.389628793458565e+17	2365730568.0	1.0	0.0	0.0	0.0			When you're having the time of your life at the party but the squad is ready to go... 😂😂😂 #wolfofwallstreet... https://t.co/kTiDZYjWnm	0.0182	0.1118	0.87
+501	25	5.389559513077842e+17	389692413.0	0.0	0.0	0.0	0.0			Wow #wolfofwallstreet has a lot of Fucks in it!	0.9323	0.0572	0.0105
+502	26	5.389414917551145e+17	78522285.0	0.0	0.0	0.0	0.0			Wolf Of Wall Street had even more nudity then what made it in the movie but had to cut it. #WolfOfWallStreet	0.7139	0.264	0.0221
+503	27	5.389378470429368e+17	32928881.0	0.0	0.0	0.0	1.0	5.389220385559716e+17	retweeted	RT @shadimacdonald: That movie had a lot of fucks and a lot of boobies #wolfofwallstreet #review http://t.co/lSJXxL7SiV	0.8012	0.1756	0.0232
+504	0	5.504251412689756e+17	1288987472.0	0.0	0.0	0.0	0.0			I feel like Occupy Wall Street wouldn't have lasted as long if they'd just let the wolf out to chase all the hippies away #WolfOfWallStreet	0.6472	0.3138	0.039
+505	1	5.50421410430976e+17	24784977.0	0.0	0.0	0.0	0.0			Finally watched #WolfOfWallStreet	0.0126	0.4416	0.5458
+506	2	5.50420401634177e+17	283740584.0	0.0	0.0	0.0	0.0			Happy new year to everyone. Bit early but I'm watching #WolfOfWallStreet now so laters potaterz	0.0023	0.018	0.9796
+507	3	5.504168896259973e+17	306406624.0	0.0	0.0	0.0	0.0			#WolfOfWallStreet .... Awesome....	0.0026	0.0148	0.9826
+508	4	5.504152535035003e+17	34382204.0	0.0	0.0	0.0	0.0			Ladies that do bare coke and ting #wolfofwallstreet http://t.co/anYI22oHzn	0.0269	0.8822	0.0909
+509	5	5.504149073811497e+17	28321577.0	0.0	0.0	0.0	0.0			I feel #WolfOfWallStreet will motivate me to some next levels!!	0.004	0.0181	0.9778
+510	6	5.504102761984164e+17	22266785.0	0.0	0.0	0.0	0.0			Watching #WolfOfWallStreet again and still can't get over how beautiful @MargotRobbie is 😍😍#WomanCrushWednesday #wcw	0.0038	0.0142	0.9819
+511	7	5.504017454790369e+17	19130457.0	0.0	0.0	0.0	0.0			So sad to hear about Edward Herrmann's death. May you rest in peace, Sir... #GilmoreGirls #GreysAnatomy #WolfofWallStreet &amp; many more...	0.3251	0.4291	0.2459
+512	8	5.50394668484395e+17	24343193.0	0.0	0.0	0.0	0.0			Finally finishing #WolfOfWallStreet and whaddayaknow? #AbFab's #JoannaLumley!!!!! #LeonardoDicaprio http://t.co/x7Pkk6Y9ks	0.0121	0.444	0.5439
+513	9	5.503939746412708e+17	103761583.0	0.0	0.0	0.0	0.0			I LOVE Matthew McConaughey #WolfOfWallStreet	0.0025	0.0154	0.9821
+514	10	5.503893970454077e+17	263228425.0	0.0	0.0	0.0	0.0			My highest rated films of 2014 were: #GrandBudapestHotel (5/5), #WolfOfWallStreet (5/5), #TheRaid2 (5/5), #WhatWeDoInTheShadows (5/5).1/2	0.0037	0.3396	0.6567
+515	11	5.503893382031237e+17	431857100.0	0.0	0.0	0.0	1.0	5.503889240533238e+17	retweeted	RT @N3RRA: Hell nawww.. #wolfOfWallstreet http://t.co/zcTxrWnPDW	0.805	0.1815	0.0136
+516	12	5.503889240533238e+17	100404329.0	0.0	0.0	0.0	1.0			Hell nawww.. #wolfOfWallstreet http://t.co/zcTxrWnPDW	0.8838	0.1037	0.0125
+517	13	5.503820704100106e+17	57409999.0	0.0	0.0	0.0	0.0			My only regret for 2014 is that I never tried some lemons...... #WolfOfWallStreet #lemons	0.8081	0.1599	0.032
+518	14	5.503790604264735e+17	2164737032.0	0.0	0.0	0.0	0.0			$OCFN making my premium members bank. #pennnystocks #daytrader #WolfOfWallStreet join us http://t.co/HH4ClEuyRG http://t.co/UIEvsjvSDg	0.0041	0.2337	0.7622
+519	15	5.503734196538245e+17	216980415.0	1.0	0.0	0.0	0.0			Hopefully this is me by the end of the night #WOLF #WolfOfWallStreet http://t.co/DnpjWeM3YY	0.0297	0.311	0.6593
+520	16	5.503719281425449e+17	2905919992.0	0.0	0.0	0.0	2.0	5.503649751525294e+17	retweeted	RT @e_barr11: illest alive #rolemodel #savage #WolfOfWallStreet http://t.co/K25bbNASI5	0.3372	0.5744	0.0884
+521	17	5.503716628779786e+17	2777148213.0	0.0	0.0	0.0	2.0	5.503649751525294e+17	retweeted	RT @e_barr11: illest alive #rolemodel #savage #WolfOfWallStreet http://t.co/K25bbNASI5	0.3372	0.5744	0.0884
+522	18	5.503690392695071e+17	301886330.0	0.0	0.0	0.0	0.0			Watched #WolfOfWallStreet first time yesterday finally had time to catch up on a number of films during the holidays and what a great film	0.0022	0.0147	0.9831
+523	19	5.503663561187082e+17	397505928.0	0.0	0.0	0.0	0.0			Just your average #NYE afro for  @sabinewilson #WolfOfWallStreet #lovehair Happy New Year to all of… http://t.co/qN7EDPINmK	0.0027	0.0398	0.9575
+524	20	5.503649751525294e+17	707725116.0	2.0	0.0	0.0	2.0			illest alive #rolemodel #savage #WolfOfWallStreet http://t.co/K25bbNASI5	0.0154	0.2708	0.7138
+525	21	5.503641894083666e+17	372040517.0	0.0	0.0	0.0	1.0	5.503586599693476e+17	retweeted	RT @JOsflow_doe: Can I be Jordan Belfort 💸💊💰 #WolfOfWallStreet	0.0127	0.8036	0.1837
+526	22	5.503586599693476e+17	1167637656.0	0.0	0.0	0.0	1.0			Can I be Jordan Belfort 💸💊💰 #WolfOfWallStreet	0.0189	0.6687	0.3124
+527	23	5.503519275112448e+17	137338454.0	0.0	0.0	0.0	0.0			Started 2014 with #WolfOfWallStreet  and end with #Ugly. Watched Master and his follower movies at year start And end consecutively.	0.1488	0.7528	0.0984
+528	24	5.5035084371184845e+17	557983808.0	2.0	0.0	0.0	0.0			"""If any of you think I'm superficial or materialistic, go get a job at McDonald's, because that's where you belong!!"" #WolfOfWallStreet"	0.3944	0.3267	0.279
+529	25	5.503499129035244e+17	342539935.0	0.0	0.0	0.0	447.0	5.500248147866665e+17	retweeted	RT @netflix: You know what a fugazi is? #WolfOfWallStreet http://t.co/ZgngjWVTRZ	0.6215	0.3631	0.0154
+530	26	5.503480647338107e+17	561820434.0	0.0	0.0	0.0	0.0			"Its a fugayzi, its a fugazi, its a wazzy, its a woozy.
+#WolfOfWallStreet"	0.4455	0.4846	0.0699
+531	27	5.503434396370248e+17	299725914.0	0.0	0.0	0.0	0.0			Finally watching #WolfOfWallStreet	0.0084	0.3492	0.6424
