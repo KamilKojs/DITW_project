@@ -1,0 +1,121 @@
+,index,movie_title,actors,not_white
+0,1,Exodus: Gods and Kings,Christian Bale,0
+1,1,Exodus: Gods and Kings,Joel Edgerton,0
+2,1,Exodus: Gods and Kings,John Turturro,0
+3,1,Exodus: Gods and Kings,Aaron Paul,0
+4,1,Exodus: Gods and Kings,Ben Mendelsohn,0
+5,1,Exodus: Gods and Kings,Sigourney Weaver,0
+6,1,Exodus: Gods and Kings,Ben Kingsley,0
+7,2,The Little Mermaid (2023 film),Halle Bailey,1
+8,2,The Little Mermaid (2023 film),Jonah Hauer-King,0
+9,2,The Little Mermaid (2023 film),Daveed Diggs,1
+10,2,The Little Mermaid (2023 film),Jacob Tremblay,0
+11,2,The Little Mermaid (2023 film),Awkwafina,1
+12,2,The Little Mermaid (2023 film),Art Malik,1
+13,2,The Little Mermaid (2023 film),Noma Dumezweni,1
+14,2,The Little Mermaid (2023 film),Javier Bardem,0
+15,2,The Little Mermaid (2023 film),Melissa McCarthy,0
+16,3,Ghost in the Shell (2017 film),Scarlett Johansson,0
+17,3,Ghost in the Shell (2017 film),Takeshi Kitano,1
+18,3,Ghost in the Shell (2017 film),Michael Pitt,0
+19,3,Ghost in the Shell (2017 film),Pilou AsbÃ¦k,0
+20,3,Ghost in the Shell (2017 film),"Chin Han (actor, born 1969)",0
+21,3,Ghost in the Shell (2017 film),Juliette Binoche,0
+22,4,Aloha (2015 film),Bradley Cooper,0
+23,4,Aloha (2015 film),Emma Stone,0
+24,4,Aloha (2015 film),Rachel McAdams,0
+25,4,Aloha (2015 film),Bill Murray,0
+26,4,Aloha (2015 film),John Krasinski,0
+27,4,Aloha (2015 film),Danny McBride,0
+28,4,Aloha (2015 film),Alec Baldwin,0
+29,5,Stonewall (2015 film),Jeremy Irvine,0
+30,5,Stonewall (2015 film),Jonny Beauchamp,0
+31,5,Stonewall (2015 film),Joey King,0
+32,5,Stonewall (2015 film),Caleb Landry Jones,0
+33,5,Stonewall (2015 film),Matt Craven,0
+34,5,Stonewall (2015 film),Jonathan Rhys Meyers,0
+35,5,Stonewall (2015 film),Ron Perlman,0
+36,6,Gods of Egypt (film),Nikolaj Coster-Waldau,0
+37,6,Gods of Egypt (film),Brenton Thwaites,0
+38,6,Gods of Egypt (film),Chadwick Boseman,1
+39,6,Gods of Egypt (film),Ãlodie Yung,0
+40,6,Gods of Egypt (film),Courtney Eaton,0
+41,6,Gods of Egypt (film),Rufus Sewell,0
+42,6,Gods of Egypt (film),Gerard Butler,0
+43,6,Gods of Egypt (film),Geoffrey Rush,0
+44,7,The Batman (film),Robert Pattinson,0
+45,7,The Batman (film),ZoÃ« Kravitz,0
+46,7,The Batman (film),Paul Dano,0
+47,7,The Batman (film),Jeffrey Wright,1
+48,7,The Batman (film),John Turturro,0
+49,7,The Batman (film),Peter Sarsgaard,0
+50,7,The Batman (film),Andy Serkis,0
+51,7,The Batman (film),Colin Farrell,0
+52,8,Anne Boleyn (TV series),,0
+53,9,The Witcher (TV series),Henry Cavill,0
+54,9,The Witcher (TV series),Freya Allan,0
+55,9,The Witcher (TV series),Eamon Farren,0
+56,9,The Witcher (TV series),Anya Chalotra,1
+57,9,The Witcher (TV series),Joey Batey,0
+58,9,The Witcher (TV series),MyAnna Buring,0
+59,9,The Witcher (TV series),Royce Pierreson,1
+60,9,The Witcher (TV series),Mimi Ndiweni,1
+61,9,The Witcher (TV series),Wilson Mbomio,0
+62,9,The Witcher (TV series),Anna Shaffer,1
+63,9,The Witcher (TV series),Mahesh Jadu,0
+64,9,The Witcher (TV series),Tom Canton,0
+65,9,The Witcher (TV series),Mecia Simson,0
+66,9,The Witcher (TV series),Kim Bodnia,0
+67,10,The Dark Tower (2017 film),Idris Elba,1
+68,10,The Dark Tower (2017 film),Matthew McConaughey,0
+69,10,The Dark Tower (2017 film),Tom Taylor (actor),0
+70,10,The Dark Tower (2017 film),Claudia Kim,0
+71,10,The Dark Tower (2017 film),Fran Kranz,0
+72,10,The Dark Tower (2017 film),Abbey Lee,0
+73,10,The Dark Tower (2017 film),Katheryn Winnick,0
+74,10,The Dark Tower (2017 film),Jackie Earle Haley,0
+75,11,Bridgerton,Adjoa Andoh,1
+76,11,Bridgerton,Lorraine Ashbourne,0
+77,11,Bridgerton,Jonathan Bailey,0
+78,11,Bridgerton,Ruby Barker,1
+79,11,Bridgerton,Sabrina Bartlett,0
+80,11,Bridgerton,Harriet Cains,0
+81,11,Bridgerton,Bessie Carter,0
+82,11,Bridgerton,Nicola Coughlan,0
+83,11,Bridgerton,Phoebe Dynevor,0
+84,11,Bridgerton,Ruth Gemmell,0
+85,11,Bridgerton,Florence Hunt,0
+86,11,Bridgerton,Claudia Jessie,0
+87,11,Bridgerton,Ben Miller,0
+88,11,Bridgerton,Luke Newton,0
+89,11,Bridgerton,RegÃ©-Jean Page,0
+90,11,Bridgerton,Golda Rosheuvel,0
+91,11,Bridgerton,Ruby Stokes,0
+92,11,Bridgerton,Luke Thompson (actor),0
+93,11,Bridgerton,Will Tilston,0
+94,11,Bridgerton,Polly Walker,0
+95,11,Bridgerton,Julie Andrews,0
+96,11,Bridgerton,Simone Ashley,1
+97,11,Bridgerton,Charithra Chandran,1
+98,11,Bridgerton,Shelley Conn,1
+99,11,Bridgerton,Martins Imhangbe,1
+100,11,Bridgerton,Calam Lynch,0
+101,11,Bridgerton,Rupert Young,0
+102,12,Inception,Leonardo DiCaprio,0
+103,12,Inception,Ken Watanabe,1
+104,12,Inception,Joseph Gordon-Levitt,0
+105,12,Inception,Marion Cotillard,0
+106,12,Inception,Elliot Page,0
+107,12,Inception,Tom Hardy,0
+108,12,Inception,Cillian Murphy,0
+109,12,Inception,Tom Berenger,0
+110,12,Inception,Michael Caine,0
+111,13,The Wolf of Wall Street (2013 film),Leonardo DiCaprio,0
+112,13,The Wolf of Wall Street (2013 film),Jonah Hill,0
+113,13,The Wolf of Wall Street (2013 film),Margot Robbie,0
+114,13,The Wolf of Wall Street (2013 film),Matthew McConaughey,0
+115,13,The Wolf of Wall Street (2013 film),Kyle Chandler,0
+116,13,The Wolf of Wall Street (2013 film),Rob Reiner,0
+117,13,The Wolf of Wall Street (2013 film),Jon Favreau,0
+118,13,The Wolf of Wall Street (2013 film),Jean Dujardin,0
+119,13,The Wolf of Wall Street (2013 film),Aya Cash,0
