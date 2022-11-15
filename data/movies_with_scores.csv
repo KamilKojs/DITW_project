@@ -1,0 +1,8 @@
+id;film_name;n_nonwhite;n_actors;diversity_score;total_score;n_tweets
+1;The Little Mermaid (2023 film);5;9;0.556;0.43571153846153843;520.0
+2;Ghost in the Shell (2017 film);1;6;0.167;0.2542630744849445;631.0
+3;The Witcher (TV series);4;14;0.286;0.42015384615384616;520.0
+4;Bridgerton;6;27;0.222;0.32783999999999996;10000.0
+5;Inception;1;9;0.111;0.3838253638253638;481.0
+6;The Wolf of Wall Street (2013 film);0;9;0.0;0.40537593984962406;532.0
+7;Mad Max: Fury Road;0;9;0.0;0.40875400000000006;10000.0
