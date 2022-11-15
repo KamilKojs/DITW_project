@@ -79,7 +79,7 @@ def scrape_wikipedia(film_title):
 
 def main():
 
-    films = pd.read_csv('./data/movies_minimalversion.csv', sep=';')
+    films = pd.read_csv('./data/movies.csv', sep=';')
     films_metadata = {}
 
     for index, row in films.iterrows():
