@@ -26,12 +26,16 @@ def locate_sentimentcsv(movie_id, map_folder2movieid_dict):
     '''
     # Get folder name from mapping dictionary by id
     folder_name = map_folder2movieid_dict[movie_id]
-
+    folder_path = os.path.join(project_path, 'data', 'twitter',
+                               folder_name)
     # Get the csv filepath by pattern matching inside folder
-    csvfile_path = glob.glob(os.path.join(project_path, 'data', 'twitter',
-                                          folder_name, '*_sentiment.csv'))[0]
 
-    return csvfile_path
+    for file in os.listdir(folder_path):
+
+        if file.endswith("_sentiment.csv") and "subset" not in file:
+            return os.path.join(folder_path, file)
+
+    return None
 
 
 def calculate_sentiment_score(movie_id, map_folder2movieid_dict,
@@ -76,11 +80,11 @@ def calculate_sentiment_score(movie_id, map_folder2movieid_dict,
     weighted_score_data = sentiment_data.copy(deep=True).sum()
 
     sentiment_score = ((weighted_score_data['negative']*-1 +
-                       weighted_score_data['neutral']*0 +
-                       weighted_score_data['positive']*1)/n_tweets).round(decimals=4)
+                        weighted_score_data['neutral']*0 +
+                        weighted_score_data['positive']*1)/n_tweets).round(decimals=4)
 
     data_out = pd.concat([data_percent, data_scores_mean,
-                         pd.Series([sentiment_score, n_tweets], index=['sentiment_score', 'n_tweets'])])
+                          pd.Series([sentiment_score, n_tweets], index=['sentiment_score', 'n_tweets'])])
 
     return data_out
 
