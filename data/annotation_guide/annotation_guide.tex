@@ -1,0 +1,34 @@
+\documentclass{article}
+\usepackage[english]{babel}
+\usepackage{tabularx}
+
+\title{Annotation Guideline}
+
+\author{Jorge del Pozo, Nicolas Obregon Royo, Kamil Kojs, Julius Roder \\
+        \small IT University Copenhagen
+}
+\date{}
+
+\begin{document}
+\maketitle
+
+\section{Overview}
+\paragraph{Context}
+The goal of our project is to look for any correlation between the diversity of a movie cast and the general sentiment towards that movie or the actors and actresses. The data we are aiming to annotate is tweets referencing a selection of movies based on hashtags.
+
+\paragraph{Annotation Guideline}
+This is the annotation guideline we are using for manual annotation of the sentiment of these movies.
+\begin{table}[hbt!]
+    \centering
+    \begin{tabularx}\textwidth{l|X}
+        Label & Annotation Guideline \\ \hline
+        Negative & A generally negative sentiment towards the movie, the cast or a single member of the cast. \\ \hline
+        Negative-racial & A generally negative sentiment towards the movie, the cast or a single member of the cast, based on the race of a cast member. \\ \hline
+        Neutral & Either a tweet that is not referencing the movie or a generally neutral sentiment towards the movie, the cast or a single member of the cast. \\ \hline
+        Positive & A generally positive sentiment towards the movie, the cast or a single member of the cast. \\ \hline
+        Positive-racial & A generally positive sentiment towards the movie, the cast or a single member of the cast, based on the race of a cast member. \\ 
+        
+    \end{tabularx}
+    \label{tab:my_label}
+\end{table}
+\end{document}
