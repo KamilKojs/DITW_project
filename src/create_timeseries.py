@@ -27,8 +27,9 @@ def connect_to_endpoint(url, headers):
         response = requests.request("GET", url, headers = headers)
         if response.status_code != 200:
             raise Exception(response.status_code, response.text)
+        
     except Exception as e:
-        x = 3*60
+        x = 5*60
         print(e)
         print(f"request limit exceeded, pausing for {x} seconds")
         time.sleep(x)
@@ -63,6 +64,26 @@ def get_sentiment_file(directory):
 
     return sentiment_file
 
+def get_json(url, headers):
+    try:
+        json_response = connect_to_endpoint(url, headers)
+        if "status" in json_response:
+            print(json_response)
+            if json_response.status == 429:
+                x = 5*60
+                print(f"request limit exceeded, pausing for {x} seconds")
+                time.sleep(x)
+                json_response = connect_to_endpoint(url, headers)
+    except Exception as e:
+        x = 5*60
+        print(e)
+        print(f"request limit exceeded, pausing for {x} seconds")
+        time.sleep(x)
+        json_response = connect_to_endpoint(url, headers)
+    return json_response
+
+
+
 def main():
     bearer_token = auth()
     headers = create_headers(bearer_token)
@@ -85,22 +106,31 @@ def main():
         # adding column "date"
         sentiment_df = sentiment_df.assign(date=pd.Series(np.zeros(length)).values)
 
+        # somehow we have na values?
+        sentiment_df = sentiment_df[sentiment_df['id'].notna()]
+
+        # These ids cannot be found anymore and break the search for all 100 in their respective query, probably the tweets got deleted
+        failing_ids = [1514335562576052224, 1534314350307069952]
+        sentiment_df = sentiment_df[~sentiment_df['id'].isin(failing_ids)]
+
         # looping over df in steps of 100, getting 100 ids and sending those to api
+        total = 0
         for i in range(0, length, 99):
             j = min(length, i+99)
             df = sentiment_df.loc[i:j, :]
-            
-            # somehow we have na values for some ids?
-            df = df.dropna()
+
             ids = df['id']
             ids_list = ids.to_list()
+            # print(f"Looking for {len(ids_list)} ids (should be 100)")
+            total += len(ids_list)
             if len(ids_list) == 0:
                 break
             ids_string = ','.join(map(str, map(int, ids_list)))
             url = create_url(ids_string)
 
             # Catching only exception for too many requests in connect_to_endpoint
-            json_response = connect_to_endpoint(url, headers)
+            json_response = get_json(url, headers)
+
 
             # using try except block here in case no data is returned, maybe better way to handle it?
             try:
@@ -110,6 +140,9 @@ def main():
                     sentiment_df.loc[sentiment_df['id'].astype(float) == float(tweet_id), 'date'] = date
             except KeyError:
                 print("no tweets returned")
+                print(json_response)
+        
+        print(f"Looked for {total} tweets")
         
         file_name = pathlib.Path(sentiment_file).stem
         out_file_name = f"{file_name}_date.csv"
