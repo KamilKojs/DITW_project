@@ -1,0 +1,122 @@
+import requests
+import os
+import time
+import pathlib
+import pandas as pd
+import numpy as np
+
+
+def auth():
+    return os.getenv('TWITTERTOKEN')
+
+
+def create_headers(bearer_token):
+    headers = {"Authorization": "Bearer {}".format(bearer_token)}
+    return headers
+
+
+def create_url(tweet_ids):
+    tweet_fields = "tweet.fields=id,created_at"
+    ids = f"ids={tweet_ids}"
+    url = "https://api.twitter.com/2/tweets?{}&{}".format(ids, tweet_fields)
+    return url
+
+
+def connect_to_endpoint(url, headers):
+    try:
+        response = requests.request("GET", url, headers = headers)
+        if response.status_code != 200:
+            raise Exception(response.status_code, response.text)
+    except Exception as e:
+        x = 3*60
+        print(e)
+        print(f"request limit exceeded, pausing for {x} seconds")
+        time.sleep(x)
+        connect_to_endpoint(url, headers)
+    return response.json()
+
+
+def get_df(json_response):
+    for tweet in json_response['data']:
+        tweet_id = tweet['id']
+        created_at = tweet['created_at']
+        new_data = pd.DataFrame({
+            "id":tweet_id,
+            "created_at": created_at}, index=[0])
+        all_data = pd.concat([new_data], ignore_index=True)
+    return all_data
+
+def get_movie_dirs(movies_path):
+
+    list_of_movies = [f.path for f in os.scandir(movies_path) if f.is_dir()]
+
+    return list_of_movies
+
+def get_sentiment_file(directory):
+
+    sentiment_file = ""
+
+    for file in os.listdir(directory):
+
+        if file.endswith("sentiment.csv") and not "subset" in file and not "date" in file:
+            sentiment_file = os.path.join(directory, file)
+
+    return sentiment_file
+
+def main():
+    bearer_token = auth()
+    headers = create_headers(bearer_token)
+    
+    cwd = pathlib.Path().resolve()
+    movies_path = os.path.abspath(
+        os.path.join(cwd, "data/twitter")
+    )
+    # get list of directories for movies
+    movies_list = get_movie_dirs(movies_path)
+
+    for movie in movies_list:
+        print(f"running for {movie}")
+
+        # get sentiment csv file
+        sentiment_file = get_sentiment_file(movie)
+        sentiment_df = pd.read_csv(sentiment_file, sep="\t")
+        
+        length = len(sentiment_df.index)
+        # adding column "date"
+        sentiment_df = sentiment_df.assign(date=pd.Series(np.zeros(length)).values)
+
+        # looping over df in steps of 100, getting 100 ids and sending those to api
+        for i in range(0, length, 99):
+            j = min(length, i+99)
+            df = sentiment_df.loc[i:j, :]
+            
+            # somehow we have na values for some ids?
+            df = df.dropna()
+            ids = df['id']
+            ids_list = ids.to_list()
+            if len(ids_list) == 0:
+                break
+            ids_string = ','.join(map(str, map(int, ids_list)))
+            url = create_url(ids_string)
+
+            # Catching only exception for too many requests in connect_to_endpoint
+            json_response = connect_to_endpoint(url, headers)
+
+            # using try except block here in case no data is returned, maybe better way to handle it?
+            try:
+                for tweet in json_response['data']:
+                    tweet_id = tweet['id']
+                    date = tweet['created_at'].split('T')[0]
+                    sentiment_df.loc[sentiment_df['id'].astype(float) == float(tweet_id), 'date'] = date
+            except KeyError:
+                print("no tweets returned")
+        
+        file_name = pathlib.Path(sentiment_file).stem
+        out_file_name = f"{file_name}_date.csv"
+        out_file_path = os.path.join(movie, out_file_name)
+        sentiment_df.to_csv(out_file_path, sep="\t", encoding="utf-8", index=False)
+        print(f"saved to {out_file_path}")
+
+if __name__ == "__main__":
+    main()
+    
