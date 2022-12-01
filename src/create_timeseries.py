@@ -95,7 +95,13 @@ def main():
     # get list of directories for movies
     movies_list = get_movie_dirs(movies_path)
 
+    counter = 0
     for movie in movies_list:
+        if counter >= 299:
+            x = 15*60
+            print(f"Pausing for {x} seconds after 300 requests")
+            time.sleep(x)
+            counter = 0
         print(f"running for {movie}")
 
         # get sentiment csv file
@@ -124,7 +130,8 @@ def main():
             # print(f"Looking for {len(ids_list)} ids (should be 100)")
             total += len(ids_list)
             if len(ids_list) == 0:
-                break
+                print(f"no ids left for {sentiment_file} df[{i}:{j}]")
+                break   
             ids_string = ','.join(map(str, map(int, ids_list)))
             url = create_url(ids_string)
 
@@ -141,7 +148,11 @@ def main():
             except KeyError:
                 print("no tweets returned")
                 print(json_response)
-        
+            except Exception as e:
+                print(e)
+            
+            counter += 100
+
         print(f"Looked for {total} tweets")
         
         file_name = pathlib.Path(sentiment_file).stem
